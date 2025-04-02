@@ -1,4 +1,20 @@
 :root {
-  --my-blue: #1e90ff;
-  --white: #ffffff;
+  --type-normal: #9FA19F;
+  --type-fighting: #FF8000;
+  --type-flying: #81B9EF;
+  --type-poison: #9141CB;
+  --type-ground: #915121;
+  --type-rock: #AFA981;
+  --type-bug: #91A119;
+  --type-ghost: #704170;
+  --type-steel: #60A1B8;
+  --type-fire: #E62829;
+  --type-water: #2980EF;
+  --type-grass: #3FA129;
+  --type-electric: #FAC000;
+  --type-psychic: #EF4179;
+  --type-ice: #3DCEF3;
+  --type-dragon: #5060E1;
+  --type-dark: #624D4E;
+  --type-fairy: #EF70EF;
 }

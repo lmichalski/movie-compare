@@ -5,6 +5,9 @@ import axios from 'axios'
 import { Pagination } from './pokemon/Pagination'
 import { Card } from './pokemon/card/Card'
 import { PokeStats } from './types/PokeStats'
+import { poke_data } from './files/csvjson'
+
+var data = poke_data
 
 const tempStats: PokeStats = {
 	hp: 100,
@@ -16,6 +19,12 @@ const tempStats: PokeStats = {
 }
 
 const App: React.FC = () => {
+	// console.log(1)
+	// for (const x of data) {
+	// 	console.log(x)
+	// }
+	// console.log(2)
+
 	return (
 		<div className={styles.select}>
 			<div className={styles.box}>
