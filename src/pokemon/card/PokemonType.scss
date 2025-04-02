@@ -1,0 +1,19 @@
+@use 'test';
+
+.pokemon__type {
+	display: flex;
+	flex-direction: row;
+    align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+    
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: $fire;
+    
+    padding: 10px;
+    margin: 10px;
+
+    height: 50px;
+    width: 100px;
+}
