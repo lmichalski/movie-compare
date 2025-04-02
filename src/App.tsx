@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './App.css'
+import styles from './App.module.css'
 import { PokemonList } from './pokemon/PokemonList'
 import axios from 'axios'
 import { Pagination } from './pokemon/Pagination'
@@ -17,8 +17,8 @@ const tempStats: PokeStats = {
 
 const App: React.FC = () => {
 	return (
-		<div className="select">
-			<div className="box">
+		<div className={styles.select}>
+			<div className={styles.box}>
 				<Card
 					key="first mon"
 					pokemonName={'FakeMon'}
@@ -35,7 +35,7 @@ const App: React.FC = () => {
 					stats={tempStats}
 				/>
 			</div>
-			<div className="temp__buttons">
+			<div className={styles.temp__buttons}>
 				<button>◀ Left</button>
 				<button>-Even-</button>
 				<button>Right ▶</button>
