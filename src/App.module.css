@@ -1,7 +1,4 @@
-:root {
-	--blue: #1e90ff;
-	--white: #ffffff;
-  }
+@import '../styles/colors.css';
 
 .App {
 	height: 100%;
@@ -33,6 +30,7 @@
 	width: 100px;
 	height: 25px;
 	padding: 5px;
+	color: var(--my-blue);
 }
 
 h1 {

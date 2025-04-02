@@ -13,7 +13,8 @@
 		"skipLibCheck": true,
 		"strict": true,
 		"noUnusedLocals": true,
-		"noUnusedParameters": true
+		"noUnusedParameters": true,
+		"plugins": [{ "name": "typescript-plugin-css-modules" }]
 	},
 	"include": ["vite.config.ts", "src/**/*"],
 	"exclude": ["node_modules"]

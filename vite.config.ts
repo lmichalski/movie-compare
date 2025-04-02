@@ -1,5 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import browserslist from 'browserslist'
+import { browserslistToTargets } from 'lightningcss'
 
 let base = process.env.REPO_NAME
 if (base && !base.startsWith('/')) {
@@ -19,9 +21,11 @@ export default defineConfig({
 	},
 	css: {
 		transformer: 'lightningcss',
-		modules: {
-			localsConvention: 'camelCaseOnly',
-			generateScopedName: '[name]__[local]',
+		lightningcss: {
+			targets: browserslistToTargets(browserslist('>= 0.25%')),
+			cssModules: {
+				pattern: '[name]__[local]',
+			},
 		},
 	},
 	build: {
