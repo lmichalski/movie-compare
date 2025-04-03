@@ -8,16 +8,17 @@ import './Card.scss'
 type Props = {
 	pokemonName: string
 	url: string
-	types: [string, string]
+	type1: string
+	type2: string
 	stats: PokeStats
 }
 
-export const Card: React.FC<Props> = ({ pokemonName, url, stats }) => {
+export const Card: React.FC<Props> = ({ pokemonName, url, type1, type2, stats }) => {
 	return (
 		<div className="pokemon__card">
 			<div className="pokemon__card--name">{pokemonName}</div>
 			<PokemonImage url={url} />
-			<PokemonTypes pokemonTypes={['fire', 'water']} />
+			<PokemonTypes type1={type1} type2={type2} />
 			<PokemonStats stats={stats} />
 		</div>
 	)

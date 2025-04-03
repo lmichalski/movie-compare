@@ -5,43 +5,57 @@ import axios from 'axios'
 import { Pagination } from './pokemon/Pagination'
 import { Card } from './pokemon/card/Card'
 import { PokeStats } from './types/PokeStats'
-import { poke_data } from './files/csvjson'
+import { poke_data } from './files/OtlData'
+import { PokeDetails } from './types/PokeDetails'
+import { CategorySelect } from './pokemon/card/CategorySelect'
 
-var data = poke_data
+const inTierRange = (val: number, lower: number, upper: number) => lower <= val && val <= upper
 
-const tempStats: PokeStats = {
-	hp: 100,
-	attack: 50,
-	defense: 80,
-	specialAttack: 95,
-	specialDefense: 80,
-	speed: 65,
-}
+const getRandomItem = (arr: PokeDetails[]) => arr[Math.floor(Math.random() * arr.length)]
+
+var between3and16 = poke_data.filter(x => inTierRange(x.Price, 3, 16))
 
 const App: React.FC = () => {
-	// console.log(1)
-	// for (const x of data) {
+	// for (const x of between3and16) {
 	// 	console.log(x)
 	// }
-	// console.log(2)
+
+	const placeHolder = getRandomItem(between3and16.filter(x => x.Pivot == 'TRUE'))
 
 	return (
-		<div className={styles.select}>
+		<div className={styles.App}>
+			<CategorySelect />
 			<div className={styles.box}>
 				<Card
 					key="first mon"
-					pokemonName={'FakeMon'}
-					url={'https://www.serebii.net/art/th/719.png'}
-					types={['fire', 'water']}
-					stats={tempStats}
+					pokemonName={mon1.Name}
+					url={mon1.IconLink}
+					type1={mon1.Type1}
+					type2={mon1.Type2}
+					stats={{
+						hp: mon1.HP,
+						attack: mon1.Atk,
+						defense: mon1.Def,
+						specialAttack: mon1.SpA,
+						specialDefense: mon1.SpD,
+						speed: mon1.Spe,
+					}}
 				/>
 
 				<Card
 					key="second mon"
-					pokemonName={'FakeMon'}
-					url={'https://www.serebii.net/art/th/409.png'}
-					types={['fire', 'water']}
-					stats={tempStats}
+					pokemonName={mon2.Name}
+					url={mon2.IconLink}
+					type1={mon2.Type1}
+					type2={mon2.Type2}
+					stats={{
+						hp: mon2.HP,
+						attack: mon2.Atk,
+						defense: mon2.Def,
+						specialAttack: mon2.SpA,
+						specialDefense: mon2.SpD,
+						speed: mon2.Spe,
+					}}
 				/>
 			</div>
 			<div className={styles.temp__buttons}>

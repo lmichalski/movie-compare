@@ -5,7 +5,9 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	align-items: center;
 	flex-grow: 1;
+	margin: 50px;
 }
 
 .box {

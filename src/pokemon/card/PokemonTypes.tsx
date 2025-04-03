@@ -2,12 +2,12 @@ import React from 'react'
 import { PokemonType } from './PokemonType'
 import './PokemonTypes.scss'
 
-type Props = { pokemonTypes: [string, string] }
+type Props = { type1: string; type2: string }
 
-export const PokemonTypes: React.FC<Props> = ({ pokemonTypes }) => {
+export const PokemonTypes: React.FC<Props> = ({ type1, type2 }) => {
 	return (
 		<div className="pokemon__types">
-			<PokemonType pokemonType={pokemonTypes[0]} /> <PokemonType pokemonType={pokemonTypes[1]} />
+			<PokemonType pokemonType={type1} /> <PokemonType pokemonType={type2} />
 		</div>
 	)
 }
