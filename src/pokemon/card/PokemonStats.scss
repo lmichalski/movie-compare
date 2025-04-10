@@ -1,0 +1,19 @@
+.poke__stats {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+    padding: 5px
+}
+
+td {
+    text-align: right;
+}
+
+.right__col {
+    padding-left: 30px;
+}

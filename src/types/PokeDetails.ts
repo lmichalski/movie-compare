@@ -8,7 +8,7 @@ export interface PokeDetails {
 	Type1: string
 	Type2: string
 	Ability1: string
-	Ablity2: string
+	Ability2: string
 	AbilityHidden: string
 	HP: number
 	Atk: number

@@ -1,5 +1,6 @@
 import React from 'react'
 import { PokeStats } from 'src/types/PokeStats'
+import './PokemonStats.scss'
 
 type Props = { stats: PokeStats }
 
@@ -9,27 +10,27 @@ export const PokemonStats: React.FC<Props> = ({ stats }) => {
 			<tbody>
 				<tr>
 					<td>Health</td>
-					<td>{stats.hp}</td>
+					<td className="right__col">{stats.hp}</td>
 				</tr>
 				<tr>
 					<td>Attack</td>
-					<td>{stats.attack}</td>
+					<td className="right__col">{stats.attack}</td>
 				</tr>
 				<tr>
 					<td>Defense</td>
-					<td>{stats.defense}</td>
+					<td className="right__col">{stats.defense}</td>
 				</tr>
 				<tr>
 					<td>Special Attack</td>
-					<td>{stats.specialAttack}</td>
+					<td className="right__col">{stats.specialAttack}</td>
 				</tr>
 				<tr>
 					<td>Special Defense</td>
-					<td>{stats.specialDefense}</td>
+					<td className="right__col">{stats.specialDefense}</td>
 				</tr>
 				<tr>
 					<td>Speed</td>
-					<td>{stats.speed}</td>
+					<td className="right__col">{stats.speed}</td>
 				</tr>
 			</tbody>
 		</table>
