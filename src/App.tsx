@@ -23,17 +23,35 @@ const App: React.FC = () => {
 	// 	console.log(x)
 	// }
 
-	const monsBetween4and16: PokeDetails[] = poke_data.filter(x => inTierRange(x.Price, 4, 16))
+	function shuffle(array: any[]) {
+		let currentIndex = array.length
+
+		// While there remain elements to shuffle...
+		while (currentIndex != 0) {
+			// Pick a remaining element...
+			let randomIndex = Math.floor(Math.random() * currentIndex)
+			currentIndex--
+
+			// And swap it with the current element.
+			;[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]]
+		}
+	}
+
+	const monsBetween6and16: PokeDetails[] = poke_data
+		.filter(x => inTierRange(x.Price, 6, 16))
+		.filter(x => x.IsMega == 'FALSE')
+
+	shuffle(monsBetween6and16)
 
 	const mons5Random = [
-		monsBetween4and16[5],
-		monsBetween4and16[1],
-		monsBetween4and16[3],
-		monsBetween4and16[98],
-		monsBetween4and16[80],
+		monsBetween6and16[5],
+		monsBetween6and16[1],
+		monsBetween6and16[3],
+		monsBetween6and16[98],
+		monsBetween6and16[80],
 	]
 
-	const [monsList, setMonsList] = useState(filterByCategory(monsBetween4and16, 'FastBoi'))
+	const [monsList, setMonsList] = useState(filterByCategory(monsBetween6and16, 'Attacker'))
 
 	const [monCategory, setMonCategory] = useState(
 		localStorage.getItem('category') || '--Please choose an option--',
@@ -72,7 +90,7 @@ const App: React.FC = () => {
 		}
 
 	useEffect(() => {
-		// console.log(mons5Random.map(x => x.Name))
+		// console.log(monsBetween6and16.map(x => x.Name))
 		asyncMergeSort(asyncPokeCompare)(monsList).then(sorted => console.log(sorted.map(x => x.Name)))
 	}, [])
 

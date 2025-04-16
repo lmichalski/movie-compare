@@ -25,5 +25,6 @@ export interface PokeDetails {
 	Fast: string
 	Pivot: string
 	Price: number
+	IsMega: string
 	IconLink: string
 }

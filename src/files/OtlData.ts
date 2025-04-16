@@ -26,6 +26,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1.png',
 	},
 	{
@@ -55,6 +56,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/2.png',
 	},
 	{
@@ -84,6 +86,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/3.png',
 	},
 	{
@@ -113,6 +116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/3-m.png',
 	},
 	{
@@ -142,6 +146,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/3-gi.png',
 	},
 	{
@@ -171,6 +176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/4.png',
 	},
 	{
@@ -200,6 +206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/5.png',
 	},
 	{
@@ -229,6 +236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/6.png',
 	},
 	{
@@ -258,6 +266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/6-mx.png',
 	},
 	{
@@ -287,6 +296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/6-my.png',
 	},
 	{
@@ -316,6 +326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/6-gi.png',
 	},
 	{
@@ -345,6 +356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/7.png',
 	},
 	{
@@ -374,6 +386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/8.png',
 	},
 	{
@@ -403,6 +416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/9.png',
 	},
 	{
@@ -432,6 +446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/9-m.png',
 	},
 	{
@@ -461,6 +476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/9-gi.png',
 	},
 	{
@@ -490,6 +506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/10.png',
 	},
 	{
@@ -519,6 +536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/11.png',
 	},
 	{
@@ -548,6 +566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/12.png',
 	},
 	{
@@ -577,6 +596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/12-gi.png',
 	},
 	{
@@ -606,6 +626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/13.png',
 	},
 	{
@@ -635,6 +656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/14.png',
 	},
 	{
@@ -664,6 +686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/15.png',
 	},
 	{
@@ -693,6 +716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/15-m.png',
 	},
 	{
@@ -722,6 +746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/16.png',
 	},
 	{
@@ -751,6 +776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/17.png',
 	},
 	{
@@ -780,6 +806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/18.png',
 	},
 	{
@@ -809,6 +836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/18-m.png',
 	},
 	{
@@ -838,6 +866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/19.png',
 	},
 	{
@@ -867,6 +896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/19-a.png',
 	},
 	{
@@ -896,6 +926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/20.png',
 	},
 	{
@@ -925,6 +956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/20-a.png',
 	},
 	{
@@ -954,6 +986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/21.png',
 	},
 	{
@@ -983,6 +1016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/22.png',
 	},
 	{
@@ -1012,6 +1046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/23.png',
 	},
 	{
@@ -1041,6 +1076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/24.png',
 	},
 	{
@@ -1070,6 +1106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/25.png',
 	},
 	{
@@ -1099,6 +1136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/25-gi.png',
 	},
 	{
@@ -1128,6 +1166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/26.png',
 	},
 	{
@@ -1157,6 +1196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/26-a.png',
 	},
 	{
@@ -1186,6 +1226,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/27.png',
 	},
 	{
@@ -1215,6 +1256,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/27-a.png',
 	},
 	{
@@ -1244,6 +1286,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/28.png',
 	},
 	{
@@ -1273,6 +1316,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/28-a.png',
 	},
 	{
@@ -1302,6 +1346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/29.png',
 	},
 	{
@@ -1331,6 +1376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/30.png',
 	},
 	{
@@ -1360,6 +1406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/31.png',
 	},
 	{
@@ -1389,6 +1436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/32.png',
 	},
 	{
@@ -1418,6 +1466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/33.png',
 	},
 	{
@@ -1447,6 +1496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/34.png',
 	},
 	{
@@ -1476,6 +1526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/35.png',
 	},
 	{
@@ -1505,6 +1556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/36.png',
 	},
 	{
@@ -1534,6 +1586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/37.png',
 	},
 	{
@@ -1563,6 +1616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/37-a.png',
 	},
 	{
@@ -1592,6 +1646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/38.png',
 	},
 	{
@@ -1621,6 +1676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/38-a.png',
 	},
 	{
@@ -1650,6 +1706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/39.png',
 	},
 	{
@@ -1679,6 +1736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/40.png',
 	},
 	{
@@ -1708,6 +1766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/41.png',
 	},
 	{
@@ -1737,6 +1796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/42.png',
 	},
 	{
@@ -1766,6 +1826,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/43.png',
 	},
 	{
@@ -1795,6 +1856,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/44.png',
 	},
 	{
@@ -1824,6 +1886,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/45.png',
 	},
 	{
@@ -1853,6 +1916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/46.png',
 	},
 	{
@@ -1882,6 +1946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/47.png',
 	},
 	{
@@ -1911,6 +1976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/48.png',
 	},
 	{
@@ -1940,6 +2006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/49.png',
 	},
 	{
@@ -1969,6 +2036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/50.png',
 	},
 	{
@@ -1998,6 +2066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/50-a.png',
 	},
 	{
@@ -2027,6 +2096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/51.png',
 	},
 	{
@@ -2056,6 +2126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/51-a.png',
 	},
 	{
@@ -2085,6 +2156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/52.png',
 	},
 	{
@@ -2114,6 +2186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/52-a.png',
 	},
 	{
@@ -2143,6 +2216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/52-g.png',
 	},
 	{
@@ -2172,6 +2246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/52-gi.png',
 	},
 	{
@@ -2201,6 +2276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/53.png',
 	},
 	{
@@ -2230,6 +2306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/53-a.png',
 	},
 	{
@@ -2259,6 +2336,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/54.png',
 	},
 	{
@@ -2288,6 +2366,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/55.png',
 	},
 	{
@@ -2317,6 +2396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/56.png',
 	},
 	{
@@ -2346,6 +2426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/57.png',
 	},
 	{
@@ -2375,6 +2456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/58.png',
 	},
 	{
@@ -2383,7 +2465,7 @@ export const poke_data = [
 		'Home#': 58,
 		PokemonDbName: 'growlithe-hisuian',
 		ShowdownName: 'growlithe-hisui',
-		PorygonName: 'Arcanine-Hisui',
+		PorygonName: 'Growlithe-Hisui',
 		Type1: 'Fire',
 		Type2: 'Rock',
 		Ability1: 'Intimidate',
@@ -2404,6 +2486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/58-h.png',
 	},
 	{
@@ -2433,6 +2516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/59.png',
 	},
 	{
@@ -2462,6 +2546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/59-h.png',
 	},
 	{
@@ -2491,6 +2576,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/60.png',
 	},
 	{
@@ -2520,6 +2606,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/61.png',
 	},
 	{
@@ -2549,6 +2636,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/62.png',
 	},
 	{
@@ -2578,6 +2666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/63.png',
 	},
 	{
@@ -2607,6 +2696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/64.png',
 	},
 	{
@@ -2636,6 +2726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/65.png',
 	},
 	{
@@ -2665,6 +2756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/65-m.png',
 	},
 	{
@@ -2694,6 +2786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/66.png',
 	},
 	{
@@ -2723,6 +2816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/67.png',
 	},
 	{
@@ -2752,6 +2846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/68.png',
 	},
 	{
@@ -2781,6 +2876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/68-gi.png',
 	},
 	{
@@ -2810,6 +2906,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/69.png',
 	},
 	{
@@ -2839,6 +2936,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/70.png',
 	},
 	{
@@ -2868,6 +2966,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/71.png',
 	},
 	{
@@ -2897,6 +2996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/72.png',
 	},
 	{
@@ -2926,6 +3026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/73.png',
 	},
 	{
@@ -2955,6 +3056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/74.png',
 	},
 	{
@@ -2984,6 +3086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/74-a.png',
 	},
 	{
@@ -3013,6 +3116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/75.png',
 	},
 	{
@@ -3042,6 +3146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/75-a.png',
 	},
 	{
@@ -3071,6 +3176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/76.png',
 	},
 	{
@@ -3100,6 +3206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/76-a.png',
 	},
 	{
@@ -3129,6 +3236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/77.png',
 	},
 	{
@@ -3158,6 +3266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/77-g.png',
 	},
 	{
@@ -3187,6 +3296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/78.png',
 	},
 	{
@@ -3216,6 +3326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/78-g.png',
 	},
 	{
@@ -3245,6 +3356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/79.png',
 	},
 	{
@@ -3274,6 +3386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/79-g.png',
 	},
 	{
@@ -3303,6 +3416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/80.png',
 	},
 	{
@@ -3332,6 +3446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/80-g.png',
 	},
 	{
@@ -3361,6 +3476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/80-m.png',
 	},
 	{
@@ -3390,6 +3506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/81.png',
 	},
 	{
@@ -3419,6 +3536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/82.png',
 	},
 	{
@@ -3448,6 +3566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/83.png',
 	},
 	{
@@ -3477,6 +3596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/83-g.png',
 	},
 	{
@@ -3506,6 +3626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/84.png',
 	},
 	{
@@ -3535,6 +3656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/85.png',
 	},
 	{
@@ -3564,6 +3686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/86.png',
 	},
 	{
@@ -3593,6 +3716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/87.png',
 	},
 	{
@@ -3622,6 +3746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/88.png',
 	},
 	{
@@ -3651,6 +3776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/88-a.png',
 	},
 	{
@@ -3680,6 +3806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/89.png',
 	},
 	{
@@ -3709,6 +3836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/89-a.png',
 	},
 	{
@@ -3738,6 +3866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/90.png',
 	},
 	{
@@ -3767,6 +3896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/91.png',
 	},
 	{
@@ -3796,6 +3926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/92.png',
 	},
 	{
@@ -3825,6 +3956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/93.png',
 	},
 	{
@@ -3854,6 +3986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/94.png',
 	},
 	{
@@ -3883,6 +4016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/94-m.png',
 	},
 	{
@@ -3912,6 +4046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/94-gi.png',
 	},
 	{
@@ -3941,6 +4076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/95.png',
 	},
 	{
@@ -3970,6 +4106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/96.png',
 	},
 	{
@@ -3999,6 +4136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/97.png',
 	},
 	{
@@ -4028,6 +4166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/98.png',
 	},
 	{
@@ -4057,6 +4196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/99.png',
 	},
 	{
@@ -4086,6 +4226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/99-gi.png',
 	},
 	{
@@ -4115,6 +4256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/100.png',
 	},
 	{
@@ -4144,6 +4286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/100-h.png',
 	},
 	{
@@ -4173,6 +4316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/101.png',
 	},
 	{
@@ -4202,6 +4346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/101-h.png',
 	},
 	{
@@ -4231,6 +4376,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/102.png',
 	},
 	{
@@ -4260,6 +4406,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/103.png',
 	},
 	{
@@ -4289,6 +4436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/103-a.png',
 	},
 	{
@@ -4318,6 +4466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/104.png',
 	},
 	{
@@ -4347,6 +4496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/105.png',
 	},
 	{
@@ -4376,6 +4526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/105-a.png',
 	},
 	{
@@ -4405,6 +4556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/106.png',
 	},
 	{
@@ -4434,6 +4586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/107.png',
 	},
 	{
@@ -4463,6 +4616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/108.png',
 	},
 	{
@@ -4492,6 +4646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/109.png',
 	},
 	{
@@ -4521,6 +4676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/110.png',
 	},
 	{
@@ -4550,6 +4706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/110-g.png',
 	},
 	{
@@ -4579,6 +4736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/111.png',
 	},
 	{
@@ -4608,6 +4766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/112.png',
 	},
 	{
@@ -4637,6 +4796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/113.png',
 	},
 	{
@@ -4666,6 +4826,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/114.png',
 	},
 	{
@@ -4695,6 +4856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/115.png',
 	},
 	{
@@ -4724,6 +4886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/115-m.png',
 	},
 	{
@@ -4753,6 +4916,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/116.png',
 	},
 	{
@@ -4782,6 +4946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/117.png',
 	},
 	{
@@ -4811,6 +4976,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/118.png',
 	},
 	{
@@ -4840,6 +5006,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/119.png',
 	},
 	{
@@ -4869,6 +5036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/120.png',
 	},
 	{
@@ -4898,6 +5066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/121.png',
 	},
 	{
@@ -4927,6 +5096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/122.png',
 	},
 	{
@@ -4956,6 +5126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/122-g.png',
 	},
 	{
@@ -4985,6 +5156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/123.png',
 	},
 	{
@@ -5014,6 +5186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/124.png',
 	},
 	{
@@ -5043,6 +5216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/125.png',
 	},
 	{
@@ -5072,6 +5246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/126.png',
 	},
 	{
@@ -5101,6 +5276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/127.png',
 	},
 	{
@@ -5130,6 +5306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/127-m.png',
 	},
 	{
@@ -5159,6 +5336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/128.png',
 	},
 	{
@@ -5188,6 +5366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/128-p.png',
 	},
 	{
@@ -5217,6 +5396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/128-pb.png',
 	},
 	{
@@ -5246,6 +5426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/128-pa.png',
 	},
 	{
@@ -5275,6 +5456,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/129.png',
 	},
 	{
@@ -5304,6 +5486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/130.png',
 	},
 	{
@@ -5333,6 +5516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/130-m.png',
 	},
 	{
@@ -5362,6 +5546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/131.png',
 	},
 	{
@@ -5391,6 +5576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/131-gi.png',
 	},
 	{
@@ -5420,6 +5606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/132.png',
 	},
 	{
@@ -5449,6 +5636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/133.png',
 	},
 	{
@@ -5478,6 +5666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/133-gi.png',
 	},
 	{
@@ -5507,6 +5696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/134.png',
 	},
 	{
@@ -5536,6 +5726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/135.png',
 	},
 	{
@@ -5565,6 +5756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/136.png',
 	},
 	{
@@ -5594,6 +5786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/137.png',
 	},
 	{
@@ -5623,6 +5816,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/138.png',
 	},
 	{
@@ -5652,6 +5846,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/139.png',
 	},
 	{
@@ -5681,6 +5876,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/140.png',
 	},
 	{
@@ -5710,6 +5906,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/141.png',
 	},
 	{
@@ -5739,6 +5936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/142.png',
 	},
 	{
@@ -5768,6 +5966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/142-m.png',
 	},
 	{
@@ -5797,6 +5996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/143.png',
 	},
 	{
@@ -5826,6 +6026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/143-gi.png',
 	},
 	{
@@ -5855,6 +6056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/144.png',
 	},
 	{
@@ -5884,6 +6086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/144-g.png',
 	},
 	{
@@ -5913,6 +6116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/145.png',
 	},
 	{
@@ -5942,6 +6146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/145-g.png',
 	},
 	{
@@ -5971,6 +6176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/146.png',
 	},
 	{
@@ -6000,6 +6206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/146-g.png',
 	},
 	{
@@ -6029,6 +6236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/147.png',
 	},
 	{
@@ -6058,6 +6266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/148.png',
 	},
 	{
@@ -6087,6 +6296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/149.png',
 	},
 	{
@@ -6116,6 +6326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/150.png',
 	},
 	{
@@ -6145,6 +6356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/150-mx.png',
 	},
 	{
@@ -6174,6 +6386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/150-my.png',
 	},
 	{
@@ -6203,6 +6416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/151.png',
 	},
 	{
@@ -6232,6 +6446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/152.png',
 	},
 	{
@@ -6261,6 +6476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/153.png',
 	},
 	{
@@ -6290,6 +6506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/154.png',
 	},
 	{
@@ -6319,6 +6536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/155.png',
 	},
 	{
@@ -6348,6 +6566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/156.png',
 	},
 	{
@@ -6377,6 +6596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/157.png',
 	},
 	{
@@ -6406,6 +6626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/157-h.png',
 	},
 	{
@@ -6435,6 +6656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/158.png',
 	},
 	{
@@ -6464,6 +6686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/159.png',
 	},
 	{
@@ -6493,6 +6716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/160.png',
 	},
 	{
@@ -6522,6 +6746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/161.png',
 	},
 	{
@@ -6551,6 +6776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/162.png',
 	},
 	{
@@ -6580,6 +6806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/163.png',
 	},
 	{
@@ -6609,6 +6836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/164.png',
 	},
 	{
@@ -6638,6 +6866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/165.png',
 	},
 	{
@@ -6667,6 +6896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/166.png',
 	},
 	{
@@ -6696,6 +6926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/167.png',
 	},
 	{
@@ -6725,6 +6956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/168.png',
 	},
 	{
@@ -6754,6 +6986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/169.png',
 	},
 	{
@@ -6783,6 +7016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/170.png',
 	},
 	{
@@ -6812,6 +7046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/171.png',
 	},
 	{
@@ -6841,6 +7076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/172.png',
 	},
 	{
@@ -6870,6 +7106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/173.png',
 	},
 	{
@@ -6899,6 +7136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/174.png',
 	},
 	{
@@ -6928,6 +7166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/175.png',
 	},
 	{
@@ -6957,6 +7196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/176.png',
 	},
 	{
@@ -6986,6 +7226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/177.png',
 	},
 	{
@@ -7015,6 +7256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/178.png',
 	},
 	{
@@ -7044,6 +7286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/179.png',
 	},
 	{
@@ -7073,6 +7316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/180.png',
 	},
 	{
@@ -7102,6 +7346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/181.png',
 	},
 	{
@@ -7131,6 +7376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/181-m.png',
 	},
 	{
@@ -7160,6 +7406,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/182.png',
 	},
 	{
@@ -7189,6 +7436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/183.png',
 	},
 	{
@@ -7218,6 +7466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/184.png',
 	},
 	{
@@ -7247,6 +7496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/185.png',
 	},
 	{
@@ -7276,6 +7526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/186.png',
 	},
 	{
@@ -7305,6 +7556,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/187.png',
 	},
 	{
@@ -7334,6 +7586,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/188.png',
 	},
 	{
@@ -7363,6 +7616,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/189.png',
 	},
 	{
@@ -7392,6 +7646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/190.png',
 	},
 	{
@@ -7421,6 +7676,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/191.png',
 	},
 	{
@@ -7450,6 +7706,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/192.png',
 	},
 	{
@@ -7479,6 +7736,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/193.png',
 	},
 	{
@@ -7508,6 +7766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/194.png',
 	},
 	{
@@ -7537,6 +7796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/194-p.png',
 	},
 	{
@@ -7566,6 +7826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/195.png',
 	},
 	{
@@ -7595,6 +7856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/196.png',
 	},
 	{
@@ -7624,6 +7886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/197.png',
 	},
 	{
@@ -7653,6 +7916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/198.png',
 	},
 	{
@@ -7682,6 +7946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/199.png',
 	},
 	{
@@ -7711,6 +7976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/199-g.png',
 	},
 	{
@@ -7740,6 +8006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/200.png',
 	},
 	{
@@ -7769,6 +8036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/201.png',
 	},
 	{
@@ -7798,6 +8066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/202.png',
 	},
 	{
@@ -7827,6 +8096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/203.png',
 	},
 	{
@@ -7856,6 +8126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/204.png',
 	},
 	{
@@ -7885,6 +8156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/205.png',
 	},
 	{
@@ -7914,6 +8186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/206.png',
 	},
 	{
@@ -7943,6 +8216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/207.png',
 	},
 	{
@@ -7972,6 +8246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/208.png',
 	},
 	{
@@ -8001,6 +8276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/208-m.png',
 	},
 	{
@@ -8030,6 +8306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/209.png',
 	},
 	{
@@ -8059,6 +8336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/210.png',
 	},
 	{
@@ -8088,6 +8366,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/211.png',
 	},
 	{
@@ -8117,6 +8396,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/211-h.png',
 	},
 	{
@@ -8146,6 +8426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/212.png',
 	},
 	{
@@ -8175,6 +8456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 19,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/212-m.png',
 	},
 	{
@@ -8204,6 +8486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/213.png',
 	},
 	{
@@ -8233,6 +8516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/214.png',
 	},
 	{
@@ -8262,6 +8546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/214-m.png',
 	},
 	{
@@ -8291,6 +8576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/215.png',
 	},
 	{
@@ -8320,6 +8606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/215-h.png',
 	},
 	{
@@ -8349,6 +8636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/216.png',
 	},
 	{
@@ -8378,6 +8666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/217.png',
 	},
 	{
@@ -8407,6 +8696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/218.png',
 	},
 	{
@@ -8436,6 +8726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/219.png',
 	},
 	{
@@ -8465,6 +8756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/220.png',
 	},
 	{
@@ -8494,6 +8786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/221.png',
 	},
 	{
@@ -8523,6 +8816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/222.png',
 	},
 	{
@@ -8552,6 +8846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/222-g.png',
 	},
 	{
@@ -8581,6 +8876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/223.png',
 	},
 	{
@@ -8610,6 +8906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/224.png',
 	},
 	{
@@ -8639,6 +8936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/225.png',
 	},
 	{
@@ -8668,6 +8966,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/226.png',
 	},
 	{
@@ -8697,6 +8996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/227.png',
 	},
 	{
@@ -8726,6 +9026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/228.png',
 	},
 	{
@@ -8755,6 +9056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/229.png',
 	},
 	{
@@ -8784,6 +9086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/229-m.png',
 	},
 	{
@@ -8813,6 +9116,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/230.png',
 	},
 	{
@@ -8842,6 +9146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/231.png',
 	},
 	{
@@ -8871,6 +9176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/232.png',
 	},
 	{
@@ -8900,6 +9206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/233.png',
 	},
 	{
@@ -8929,6 +9236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/234.png',
 	},
 	{
@@ -8958,6 +9266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/235.png',
 	},
 	{
@@ -8987,6 +9296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/236.png',
 	},
 	{
@@ -9016,6 +9326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/237.png',
 	},
 	{
@@ -9045,6 +9356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/238.png',
 	},
 	{
@@ -9074,6 +9386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/239.png',
 	},
 	{
@@ -9103,6 +9416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/240.png',
 	},
 	{
@@ -9132,6 +9446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/241.png',
 	},
 	{
@@ -9161,6 +9476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/242.png',
 	},
 	{
@@ -9190,6 +9506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/243.png',
 	},
 	{
@@ -9219,6 +9536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/244.png',
 	},
 	{
@@ -9248,6 +9566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/245.png',
 	},
 	{
@@ -9277,6 +9596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/246.png',
 	},
 	{
@@ -9306,6 +9626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/247.png',
 	},
 	{
@@ -9335,6 +9656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/248.png',
 	},
 	{
@@ -9364,6 +9686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/248-m.png',
 	},
 	{
@@ -9393,6 +9716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/249.png',
 	},
 	{
@@ -9422,6 +9746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/250.png',
 	},
 	{
@@ -9451,6 +9776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/251.png',
 	},
 	{
@@ -9480,6 +9806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/252.png',
 	},
 	{
@@ -9509,6 +9836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/253.png',
 	},
 	{
@@ -9538,6 +9866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/254.png',
 	},
 	{
@@ -9567,6 +9896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/254-m.png',
 	},
 	{
@@ -9596,6 +9926,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/255.png',
 	},
 	{
@@ -9625,6 +9956,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/256.png',
 	},
 	{
@@ -9654,6 +9986,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/257.png',
 	},
 	{
@@ -9683,6 +10016,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/257-m.png',
 	},
 	{
@@ -9712,6 +10046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/258.png',
 	},
 	{
@@ -9741,6 +10076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/259.png',
 	},
 	{
@@ -9770,6 +10106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/260.png',
 	},
 	{
@@ -9799,6 +10136,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/260-m.png',
 	},
 	{
@@ -9828,6 +10166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/261.png',
 	},
 	{
@@ -9857,6 +10196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/262.png',
 	},
 	{
@@ -9886,6 +10226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/263.png',
 	},
 	{
@@ -9915,6 +10256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/263-g.png',
 	},
 	{
@@ -9944,6 +10286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/264.png',
 	},
 	{
@@ -9973,6 +10316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/264-g.png',
 	},
 	{
@@ -10002,6 +10346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/265.png',
 	},
 	{
@@ -10031,6 +10376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/266.png',
 	},
 	{
@@ -10060,6 +10406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/267.png',
 	},
 	{
@@ -10089,6 +10436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/268.png',
 	},
 	{
@@ -10118,6 +10466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/269.png',
 	},
 	{
@@ -10147,6 +10496,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/270.png',
 	},
 	{
@@ -10176,6 +10526,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/271.png',
 	},
 	{
@@ -10205,6 +10556,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/272.png',
 	},
 	{
@@ -10234,6 +10586,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/273.png',
 	},
 	{
@@ -10263,6 +10616,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/274.png',
 	},
 	{
@@ -10292,6 +10646,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/275.png',
 	},
 	{
@@ -10321,6 +10676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/276.png',
 	},
 	{
@@ -10350,6 +10706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/277.png',
 	},
 	{
@@ -10379,6 +10736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/278.png',
 	},
 	{
@@ -10408,6 +10766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/279.png',
 	},
 	{
@@ -10437,6 +10796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/280.png',
 	},
 	{
@@ -10466,6 +10826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/281.png',
 	},
 	{
@@ -10495,6 +10856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/282.png',
 	},
 	{
@@ -10524,6 +10886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/282-m.png',
 	},
 	{
@@ -10553,6 +10916,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/283.png',
 	},
 	{
@@ -10582,6 +10946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/284.png',
 	},
 	{
@@ -10611,6 +10976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/285.png',
 	},
 	{
@@ -10640,6 +11006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/286.png',
 	},
 	{
@@ -10669,6 +11036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/287.png',
 	},
 	{
@@ -10698,6 +11066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/288.png',
 	},
 	{
@@ -10727,6 +11096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/289.png',
 	},
 	{
@@ -10756,6 +11126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/290.png',
 	},
 	{
@@ -10785,6 +11156,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/291.png',
 	},
 	{
@@ -10814,6 +11186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/292.png',
 	},
 	{
@@ -10843,6 +11216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/293.png',
 	},
 	{
@@ -10872,6 +11246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/294.png',
 	},
 	{
@@ -10901,6 +11276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/295.png',
 	},
 	{
@@ -10930,6 +11306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/296.png',
 	},
 	{
@@ -10959,6 +11336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/297.png',
 	},
 	{
@@ -10988,6 +11366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/298.png',
 	},
 	{
@@ -11017,6 +11396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/299.png',
 	},
 	{
@@ -11046,6 +11426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/300.png',
 	},
 	{
@@ -11075,6 +11456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/301.png',
 	},
 	{
@@ -11104,6 +11486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/302.png',
 	},
 	{
@@ -11133,6 +11516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/302-m.png',
 	},
 	{
@@ -11162,6 +11546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/303.png',
 	},
 	{
@@ -11191,6 +11576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 18,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/303-m.png',
 	},
 	{
@@ -11220,6 +11606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/304.png',
 	},
 	{
@@ -11249,6 +11636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/305.png',
 	},
 	{
@@ -11278,6 +11666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/306.png',
 	},
 	{
@@ -11307,6 +11696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/306-m.png',
 	},
 	{
@@ -11336,6 +11726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/307.png',
 	},
 	{
@@ -11365,6 +11756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/308.png',
 	},
 	{
@@ -11394,6 +11786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/308-m.png',
 	},
 	{
@@ -11423,6 +11816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/309.png',
 	},
 	{
@@ -11452,6 +11846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/310.png',
 	},
 	{
@@ -11481,6 +11876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/310-m.png',
 	},
 	{
@@ -11510,6 +11906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/311.png',
 	},
 	{
@@ -11539,6 +11936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/312.png',
 	},
 	{
@@ -11568,6 +11966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/313.png',
 	},
 	{
@@ -11597,6 +11996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/314.png',
 	},
 	{
@@ -11626,6 +12026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/315.png',
 	},
 	{
@@ -11655,6 +12056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/316.png',
 	},
 	{
@@ -11684,6 +12086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/317.png',
 	},
 	{
@@ -11713,6 +12116,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/318.png',
 	},
 	{
@@ -11742,6 +12146,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/319.png',
 	},
 	{
@@ -11771,6 +12176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/319-m.png',
 	},
 	{
@@ -11800,6 +12206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/320.png',
 	},
 	{
@@ -11829,6 +12236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/321.png',
 	},
 	{
@@ -11858,6 +12266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/322.png',
 	},
 	{
@@ -11887,6 +12296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/323.png',
 	},
 	{
@@ -11916,6 +12326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/323-m.png',
 	},
 	{
@@ -11945,6 +12356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/324.png',
 	},
 	{
@@ -11974,6 +12386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/325.png',
 	},
 	{
@@ -12003,6 +12416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/326.png',
 	},
 	{
@@ -12032,6 +12446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/327.png',
 	},
 	{
@@ -12061,6 +12476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/328.png',
 	},
 	{
@@ -12090,6 +12506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/329.png',
 	},
 	{
@@ -12119,6 +12536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/330.png',
 	},
 	{
@@ -12148,6 +12566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/331.png',
 	},
 	{
@@ -12177,6 +12596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/332.png',
 	},
 	{
@@ -12206,6 +12626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/333.png',
 	},
 	{
@@ -12235,6 +12656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/334.png',
 	},
 	{
@@ -12264,6 +12686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/334-m.png',
 	},
 	{
@@ -12293,6 +12716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/335.png',
 	},
 	{
@@ -12322,6 +12746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/336.png',
 	},
 	{
@@ -12351,6 +12776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/337.png',
 	},
 	{
@@ -12380,6 +12806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/338.png',
 	},
 	{
@@ -12409,6 +12836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/339.png',
 	},
 	{
@@ -12438,6 +12866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/340.png',
 	},
 	{
@@ -12467,6 +12896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/341.png',
 	},
 	{
@@ -12496,6 +12926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/342.png',
 	},
 	{
@@ -12525,6 +12956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/343.png',
 	},
 	{
@@ -12554,6 +12986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/344.png',
 	},
 	{
@@ -12583,6 +13016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/345.png',
 	},
 	{
@@ -12612,6 +13046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/346.png',
 	},
 	{
@@ -12641,6 +13076,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/347.png',
 	},
 	{
@@ -12670,6 +13106,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/348.png',
 	},
 	{
@@ -12699,6 +13136,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/349.png',
 	},
 	{
@@ -12728,6 +13166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/350.png',
 	},
 	{
@@ -12757,6 +13196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/351.png',
 	},
 	{
@@ -12786,6 +13226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/352.png',
 	},
 	{
@@ -12815,6 +13256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/353.png',
 	},
 	{
@@ -12844,6 +13286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/354.png',
 	},
 	{
@@ -12873,6 +13316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/354-m.png',
 	},
 	{
@@ -12902,6 +13346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/355.png',
 	},
 	{
@@ -12931,6 +13376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/356.png',
 	},
 	{
@@ -12960,6 +13406,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/357.png',
 	},
 	{
@@ -12989,6 +13436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/358.png',
 	},
 	{
@@ -13018,6 +13466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/359.png',
 	},
 	{
@@ -13047,6 +13496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/359-m.png',
 	},
 	{
@@ -13076,6 +13526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/360.png',
 	},
 	{
@@ -13105,6 +13556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/361.png',
 	},
 	{
@@ -13134,6 +13586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/362.png',
 	},
 	{
@@ -13163,6 +13616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/362-m.png',
 	},
 	{
@@ -13192,6 +13646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/363.png',
 	},
 	{
@@ -13221,6 +13676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/364.png',
 	},
 	{
@@ -13250,6 +13706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/365.png',
 	},
 	{
@@ -13279,6 +13736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/366.png',
 	},
 	{
@@ -13308,6 +13766,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/367.png',
 	},
 	{
@@ -13337,6 +13796,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/368.png',
 	},
 	{
@@ -13366,6 +13826,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/369.png',
 	},
 	{
@@ -13395,6 +13856,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/370.png',
 	},
 	{
@@ -13424,6 +13886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/371.png',
 	},
 	{
@@ -13453,6 +13916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/372.png',
 	},
 	{
@@ -13482,6 +13946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/373.png',
 	},
 	{
@@ -13511,6 +13976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/373-m.png',
 	},
 	{
@@ -13540,6 +14006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/374.png',
 	},
 	{
@@ -13569,6 +14036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/375.png',
 	},
 	{
@@ -13598,6 +14066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/376.png',
 	},
 	{
@@ -13627,6 +14096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/376-m.png',
 	},
 	{
@@ -13656,6 +14126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/377.png',
 	},
 	{
@@ -13685,6 +14156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/378.png',
 	},
 	{
@@ -13714,6 +14186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/379.png',
 	},
 	{
@@ -13743,6 +14216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/380.png',
 	},
 	{
@@ -13772,6 +14246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/380-m.png',
 	},
 	{
@@ -13801,6 +14276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/381.png',
 	},
 	{
@@ -13830,6 +14306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/381-m.png',
 	},
 	{
@@ -13859,6 +14336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/382.png',
 	},
 	{
@@ -13888,6 +14366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/382-p.png',
 	},
 	{
@@ -13917,6 +14396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/383.png',
 	},
 	{
@@ -13946,6 +14426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/383-p.png',
 	},
 	{
@@ -13975,6 +14456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/384.png',
 	},
 	{
@@ -14004,6 +14486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/384-m.png',
 	},
 	{
@@ -14033,6 +14516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/385.png',
 	},
 	{
@@ -14062,6 +14546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/386.png',
 	},
 	{
@@ -14091,6 +14576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/386-a.png',
 	},
 	{
@@ -14120,6 +14606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/386-d.png',
 	},
 	{
@@ -14149,6 +14636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/386-s.png',
 	},
 	{
@@ -14178,6 +14666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/387.png',
 	},
 	{
@@ -14207,6 +14696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/388.png',
 	},
 	{
@@ -14236,6 +14726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/389.png',
 	},
 	{
@@ -14265,6 +14756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/390.png',
 	},
 	{
@@ -14294,6 +14786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/391.png',
 	},
 	{
@@ -14323,6 +14816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/392.png',
 	},
 	{
@@ -14352,6 +14846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/393.png',
 	},
 	{
@@ -14381,6 +14876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/394.png',
 	},
 	{
@@ -14410,6 +14906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/395.png',
 	},
 	{
@@ -14439,6 +14936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/396.png',
 	},
 	{
@@ -14468,6 +14966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/397.png',
 	},
 	{
@@ -14497,6 +14996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/398.png',
 	},
 	{
@@ -14526,6 +15026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/399.png',
 	},
 	{
@@ -14555,6 +15056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/400.png',
 	},
 	{
@@ -14584,6 +15086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/401.png',
 	},
 	{
@@ -14613,6 +15116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/402.png',
 	},
 	{
@@ -14642,6 +15146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/403.png',
 	},
 	{
@@ -14671,6 +15176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/404.png',
 	},
 	{
@@ -14700,6 +15206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/405.png',
 	},
 	{
@@ -14729,6 +15236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/406.png',
 	},
 	{
@@ -14758,6 +15266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/407.png',
 	},
 	{
@@ -14787,6 +15296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/408.png',
 	},
 	{
@@ -14816,6 +15326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/409.png',
 	},
 	{
@@ -14845,6 +15356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/410.png',
 	},
 	{
@@ -14874,6 +15386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/411.png',
 	},
 	{
@@ -14903,6 +15416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/412.png',
 	},
 	{
@@ -14932,6 +15446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/413.png',
 	},
 	{
@@ -14961,6 +15476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/413-s.png',
 	},
 	{
@@ -14990,6 +15506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/413-t.png',
 	},
 	{
@@ -15019,6 +15536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/414.png',
 	},
 	{
@@ -15048,6 +15566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/415.png',
 	},
 	{
@@ -15077,6 +15596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/416.png',
 	},
 	{
@@ -15106,6 +15626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/417.png',
 	},
 	{
@@ -15135,6 +15656,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/418.png',
 	},
 	{
@@ -15164,6 +15686,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/419.png',
 	},
 	{
@@ -15193,6 +15716,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/420.png',
 	},
 	{
@@ -15222,6 +15746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/421.png',
 	},
 	{
@@ -15251,6 +15776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/422.png',
 	},
 	{
@@ -15280,6 +15806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/423.png',
 	},
 	{
@@ -15309,6 +15836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/424.png',
 	},
 	{
@@ -15338,6 +15866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/425.png',
 	},
 	{
@@ -15367,6 +15896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/426.png',
 	},
 	{
@@ -15396,6 +15926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/427.png',
 	},
 	{
@@ -15425,6 +15956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/428.png',
 	},
 	{
@@ -15454,6 +15986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/428-m.png',
 	},
 	{
@@ -15483,6 +16016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/429.png',
 	},
 	{
@@ -15512,6 +16046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/430.png',
 	},
 	{
@@ -15541,6 +16076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/431.png',
 	},
 	{
@@ -15570,6 +16106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/432.png',
 	},
 	{
@@ -15599,6 +16136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/433.png',
 	},
 	{
@@ -15628,6 +16166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/434.png',
 	},
 	{
@@ -15657,6 +16196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/435.png',
 	},
 	{
@@ -15686,6 +16226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/436.png',
 	},
 	{
@@ -15715,6 +16256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/437.png',
 	},
 	{
@@ -15744,6 +16286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/438.png',
 	},
 	{
@@ -15773,6 +16316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/439.png',
 	},
 	{
@@ -15802,6 +16346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/440.png',
 	},
 	{
@@ -15831,6 +16376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/441.png',
 	},
 	{
@@ -15860,6 +16406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/442.png',
 	},
 	{
@@ -15889,6 +16436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/443.png',
 	},
 	{
@@ -15918,6 +16466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/444.png',
 	},
 	{
@@ -15947,6 +16496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/445.png',
 	},
 	{
@@ -15976,6 +16526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/445-m.png',
 	},
 	{
@@ -16005,6 +16556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/446.png',
 	},
 	{
@@ -16034,6 +16586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/447.png',
 	},
 	{
@@ -16063,6 +16616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/448.png',
 	},
 	{
@@ -16092,6 +16646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/448-m.png',
 	},
 	{
@@ -16121,6 +16676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/449.png',
 	},
 	{
@@ -16150,6 +16706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/450.png',
 	},
 	{
@@ -16179,6 +16736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/451.png',
 	},
 	{
@@ -16208,6 +16766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/452.png',
 	},
 	{
@@ -16237,6 +16796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/453.png',
 	},
 	{
@@ -16266,6 +16826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/454.png',
 	},
 	{
@@ -16295,6 +16856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/455.png',
 	},
 	{
@@ -16324,6 +16886,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/456.png',
 	},
 	{
@@ -16353,6 +16916,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/457.png',
 	},
 	{
@@ -16382,6 +16946,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/458.png',
 	},
 	{
@@ -16411,6 +16976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/459.png',
 	},
 	{
@@ -16440,6 +17006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/460.png',
 	},
 	{
@@ -16469,6 +17036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/460-m.png',
 	},
 	{
@@ -16498,6 +17066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/461.png',
 	},
 	{
@@ -16527,6 +17096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/462.png',
 	},
 	{
@@ -16556,6 +17126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/463.png',
 	},
 	{
@@ -16585,6 +17156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/464.png',
 	},
 	{
@@ -16614,6 +17186,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/465.png',
 	},
 	{
@@ -16643,6 +17216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/466.png',
 	},
 	{
@@ -16672,6 +17246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/467.png',
 	},
 	{
@@ -16701,6 +17276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/468.png',
 	},
 	{
@@ -16730,6 +17306,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/469.png',
 	},
 	{
@@ -16759,6 +17336,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/470.png',
 	},
 	{
@@ -16788,6 +17366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/471.png',
 	},
 	{
@@ -16817,6 +17396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/472.png',
 	},
 	{
@@ -16846,6 +17426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/473.png',
 	},
 	{
@@ -16875,6 +17456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/474.png',
 	},
 	{
@@ -16904,6 +17486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/475.png',
 	},
 	{
@@ -16933,6 +17516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 19,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/475-m.png',
 	},
 	{
@@ -16962,6 +17546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/476.png',
 	},
 	{
@@ -16991,6 +17576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/477.png',
 	},
 	{
@@ -17020,6 +17606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/478.png',
 	},
 	{
@@ -17049,6 +17636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479.png',
 	},
 	{
@@ -17078,6 +17666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479-h.png',
 	},
 	{
@@ -17107,6 +17696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479-w.png',
 	},
 	{
@@ -17136,6 +17726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479-f.png',
 	},
 	{
@@ -17165,6 +17756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479-s.png',
 	},
 	{
@@ -17194,6 +17786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/479-m.png',
 	},
 	{
@@ -17223,6 +17816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/480.png',
 	},
 	{
@@ -17252,6 +17846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/481.png',
 	},
 	{
@@ -17281,6 +17876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/482.png',
 	},
 	{
@@ -17310,6 +17906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/483.png',
 	},
 	{
@@ -17339,6 +17936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/483-o.png',
 	},
 	{
@@ -17368,6 +17966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/484.png',
 	},
 	{
@@ -17397,6 +17996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/484-o.png',
 	},
 	{
@@ -17426,6 +18026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/485.png',
 	},
 	{
@@ -17455,6 +18056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/486.png',
 	},
 	{
@@ -17484,6 +18086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/487.png',
 	},
 	{
@@ -17513,6 +18116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/487-o.png',
 	},
 	{
@@ -17542,6 +18146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/488.png',
 	},
 	{
@@ -17571,6 +18176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/489.png',
 	},
 	{
@@ -17600,6 +18206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/490.png',
 	},
 	{
@@ -17629,6 +18236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/491.png',
 	},
 	{
@@ -17658,6 +18266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/492.png',
 	},
 	{
@@ -17687,6 +18296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/492-s.png',
 	},
 	{
@@ -17716,6 +18326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493.png',
 	},
 	{
@@ -17745,6 +18356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-bug.png',
 	},
 	{
@@ -17774,6 +18386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-dark.png',
 	},
 	{
@@ -17803,6 +18416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-dragon.png',
 	},
 	{
@@ -17832,6 +18446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-electric.png',
 	},
 	{
@@ -17861,6 +18476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-fairy.png',
 	},
 	{
@@ -17890,6 +18506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-fighting.png',
 	},
 	{
@@ -17919,6 +18536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-fire.png',
 	},
 	{
@@ -17948,6 +18566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-flying.png',
 	},
 	{
@@ -17977,6 +18596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-ghost.png',
 	},
 	{
@@ -18006,6 +18626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-grass.png',
 	},
 	{
@@ -18035,6 +18656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-ground.png',
 	},
 	{
@@ -18064,6 +18686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-ice.png',
 	},
 	{
@@ -18093,6 +18716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-poison.png',
 	},
 	{
@@ -18122,6 +18746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-psychic.png',
 	},
 	{
@@ -18151,6 +18776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-rock.png',
 	},
 	{
@@ -18180,6 +18806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-steel.png',
 	},
 	{
@@ -18209,6 +18836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/493-water.png',
 	},
 	{
@@ -18238,6 +18866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/494.png',
 	},
 	{
@@ -18267,6 +18896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/495.png',
 	},
 	{
@@ -18296,6 +18926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/496.png',
 	},
 	{
@@ -18325,6 +18956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/497.png',
 	},
 	{
@@ -18354,6 +18986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/498.png',
 	},
 	{
@@ -18383,6 +19016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/499.png',
 	},
 	{
@@ -18412,6 +19046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/500.png',
 	},
 	{
@@ -18441,6 +19076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/501.png',
 	},
 	{
@@ -18470,6 +19106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/502.png',
 	},
 	{
@@ -18499,6 +19136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/503.png',
 	},
 	{
@@ -18528,6 +19166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/503-h.png',
 	},
 	{
@@ -18557,6 +19196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/504.png',
 	},
 	{
@@ -18586,6 +19226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/505.png',
 	},
 	{
@@ -18615,6 +19256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/506.png',
 	},
 	{
@@ -18644,6 +19286,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/507.png',
 	},
 	{
@@ -18673,6 +19316,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/508.png',
 	},
 	{
@@ -18702,6 +19346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/509.png',
 	},
 	{
@@ -18731,6 +19376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/510.png',
 	},
 	{
@@ -18760,6 +19406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/511.png',
 	},
 	{
@@ -18789,6 +19436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/512.png',
 	},
 	{
@@ -18818,6 +19466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/513.png',
 	},
 	{
@@ -18847,6 +19496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/514.png',
 	},
 	{
@@ -18876,6 +19526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/515.png',
 	},
 	{
@@ -18905,6 +19556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/516.png',
 	},
 	{
@@ -18934,6 +19586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/517.png',
 	},
 	{
@@ -18963,6 +19616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/518.png',
 	},
 	{
@@ -18992,6 +19646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/519.png',
 	},
 	{
@@ -19021,6 +19676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/520.png',
 	},
 	{
@@ -19050,6 +19706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/521.png',
 	},
 	{
@@ -19079,6 +19736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/522.png',
 	},
 	{
@@ -19108,6 +19766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/523.png',
 	},
 	{
@@ -19137,6 +19796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/524.png',
 	},
 	{
@@ -19166,6 +19826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/525.png',
 	},
 	{
@@ -19195,6 +19856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/526.png',
 	},
 	{
@@ -19224,6 +19886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/527.png',
 	},
 	{
@@ -19253,6 +19916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/528.png',
 	},
 	{
@@ -19282,6 +19946,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/529.png',
 	},
 	{
@@ -19311,6 +19976,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/530.png',
 	},
 	{
@@ -19340,6 +20006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/531.png',
 	},
 	{
@@ -19369,6 +20036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/531-m.png',
 	},
 	{
@@ -19398,6 +20066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/532.png',
 	},
 	{
@@ -19427,6 +20096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/533.png',
 	},
 	{
@@ -19456,6 +20126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/534.png',
 	},
 	{
@@ -19485,6 +20156,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/535.png',
 	},
 	{
@@ -19514,6 +20186,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/536.png',
 	},
 	{
@@ -19543,6 +20216,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/537.png',
 	},
 	{
@@ -19572,6 +20246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/538.png',
 	},
 	{
@@ -19601,6 +20276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/539.png',
 	},
 	{
@@ -19630,6 +20306,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/540.png',
 	},
 	{
@@ -19659,6 +20336,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/541.png',
 	},
 	{
@@ -19688,6 +20366,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/542.png',
 	},
 	{
@@ -19717,6 +20396,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/543.png',
 	},
 	{
@@ -19746,6 +20426,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/544.png',
 	},
 	{
@@ -19775,6 +20456,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/545.png',
 	},
 	{
@@ -19804,6 +20486,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/546.png',
 	},
 	{
@@ -19833,6 +20516,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/547.png',
 	},
 	{
@@ -19862,6 +20546,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/548.png',
 	},
 	{
@@ -19891,6 +20576,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/549.png',
 	},
 	{
@@ -19920,6 +20606,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/549-h.png',
 	},
 	{
@@ -19949,6 +20636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/550.png',
 	},
 	{
@@ -19978,6 +20666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/550-b.png',
 	},
 	{
@@ -20007,6 +20696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/550-w.png',
 	},
 	{
@@ -20036,6 +20726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/551.png',
 	},
 	{
@@ -20065,6 +20756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/552.png',
 	},
 	{
@@ -20094,6 +20786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/553.png',
 	},
 	{
@@ -20123,6 +20816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/554.png',
 	},
 	{
@@ -20152,6 +20846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/554-g.png',
 	},
 	{
@@ -20181,6 +20876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/555.png',
 	},
 	{
@@ -20210,6 +20906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/555-z.png',
 	},
 	{
@@ -20239,6 +20936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/555-g.png',
 	},
 	{
@@ -20268,6 +20966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/555-gz.png',
 	},
 	{
@@ -20297,6 +20996,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/556.png',
 	},
 	{
@@ -20326,6 +21026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/557.png',
 	},
 	{
@@ -20355,6 +21056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/558.png',
 	},
 	{
@@ -20384,6 +21086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/559.png',
 	},
 	{
@@ -20413,6 +21116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/560.png',
 	},
 	{
@@ -20442,6 +21146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/561.png',
 	},
 	{
@@ -20471,6 +21176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/562.png',
 	},
 	{
@@ -20500,6 +21206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/562-g.png',
 	},
 	{
@@ -20529,6 +21236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/563.png',
 	},
 	{
@@ -20558,6 +21266,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/564.png',
 	},
 	{
@@ -20587,6 +21296,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/565.png',
 	},
 	{
@@ -20616,6 +21326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/566.png',
 	},
 	{
@@ -20645,6 +21356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/567.png',
 	},
 	{
@@ -20674,6 +21386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/568.png',
 	},
 	{
@@ -20703,6 +21416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/569.png',
 	},
 	{
@@ -20732,6 +21446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/569-gi.png',
 	},
 	{
@@ -20761,6 +21476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/570.png',
 	},
 	{
@@ -20790,6 +21506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/570-h.png',
 	},
 	{
@@ -20819,6 +21536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/571.png',
 	},
 	{
@@ -20848,6 +21566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/571-h.png',
 	},
 	{
@@ -20877,6 +21596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/572.png',
 	},
 	{
@@ -20906,6 +21626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/573.png',
 	},
 	{
@@ -20935,6 +21656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/574.png',
 	},
 	{
@@ -20964,6 +21686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/575.png',
 	},
 	{
@@ -20993,6 +21716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/576.png',
 	},
 	{
@@ -21022,6 +21746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/577.png',
 	},
 	{
@@ -21051,6 +21776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/578.png',
 	},
 	{
@@ -21080,6 +21806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/579.png',
 	},
 	{
@@ -21109,6 +21836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/580.png',
 	},
 	{
@@ -21138,6 +21866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/581.png',
 	},
 	{
@@ -21167,6 +21896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/582.png',
 	},
 	{
@@ -21196,6 +21926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/583.png',
 	},
 	{
@@ -21225,6 +21956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/584.png',
 	},
 	{
@@ -21254,6 +21986,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/585.png',
 	},
 	{
@@ -21283,6 +22016,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/586.png',
 	},
 	{
@@ -21312,6 +22046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/587.png',
 	},
 	{
@@ -21341,6 +22076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/588.png',
 	},
 	{
@@ -21370,6 +22106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/589.png',
 	},
 	{
@@ -21399,6 +22136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/590.png',
 	},
 	{
@@ -21428,6 +22166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/591.png',
 	},
 	{
@@ -21457,6 +22196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/592.png',
 	},
 	{
@@ -21486,6 +22226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/593.png',
 	},
 	{
@@ -21515,6 +22256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/594.png',
 	},
 	{
@@ -21544,6 +22286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/595.png',
 	},
 	{
@@ -21573,6 +22316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/596.png',
 	},
 	{
@@ -21602,6 +22346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/597.png',
 	},
 	{
@@ -21631,6 +22376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/598.png',
 	},
 	{
@@ -21660,6 +22406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/599.png',
 	},
 	{
@@ -21689,6 +22436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/600.png',
 	},
 	{
@@ -21718,6 +22466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/601.png',
 	},
 	{
@@ -21747,6 +22496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/602.png',
 	},
 	{
@@ -21776,6 +22526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/603.png',
 	},
 	{
@@ -21805,6 +22556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/604.png',
 	},
 	{
@@ -21834,6 +22586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/605.png',
 	},
 	{
@@ -21863,6 +22616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/606.png',
 	},
 	{
@@ -21892,6 +22646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/607.png',
 	},
 	{
@@ -21921,6 +22676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/608.png',
 	},
 	{
@@ -21950,6 +22706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/609.png',
 	},
 	{
@@ -21979,6 +22736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/610.png',
 	},
 	{
@@ -22008,6 +22766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/611.png',
 	},
 	{
@@ -22037,6 +22796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/612.png',
 	},
 	{
@@ -22066,6 +22826,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/613.png',
 	},
 	{
@@ -22095,6 +22856,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/614.png',
 	},
 	{
@@ -22124,6 +22886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/615.png',
 	},
 	{
@@ -22153,6 +22916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/616.png',
 	},
 	{
@@ -22182,6 +22946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/617.png',
 	},
 	{
@@ -22211,6 +22976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/618.png',
 	},
 	{
@@ -22240,6 +23006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/618-g.png',
 	},
 	{
@@ -22269,6 +23036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/619.png',
 	},
 	{
@@ -22298,6 +23066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/620.png',
 	},
 	{
@@ -22327,6 +23096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/621.png',
 	},
 	{
@@ -22356,6 +23126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/622.png',
 	},
 	{
@@ -22385,6 +23156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/623.png',
 	},
 	{
@@ -22414,6 +23186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/624.png',
 	},
 	{
@@ -22443,6 +23216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/625.png',
 	},
 	{
@@ -22472,6 +23246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/626.png',
 	},
 	{
@@ -22501,6 +23276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/627.png',
 	},
 	{
@@ -22530,6 +23306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/628.png',
 	},
 	{
@@ -22559,6 +23336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/628-h.png',
 	},
 	{
@@ -22588,6 +23366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/629.png',
 	},
 	{
@@ -22617,6 +23396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/630.png',
 	},
 	{
@@ -22646,6 +23426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/631.png',
 	},
 	{
@@ -22675,6 +23456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/632.png',
 	},
 	{
@@ -22704,6 +23486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/633.png',
 	},
 	{
@@ -22733,6 +23516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/634.png',
 	},
 	{
@@ -22762,6 +23546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/635.png',
 	},
 	{
@@ -22791,6 +23576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/636.png',
 	},
 	{
@@ -22820,6 +23606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/637.png',
 	},
 	{
@@ -22849,6 +23636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/638.png',
 	},
 	{
@@ -22878,6 +23666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/639.png',
 	},
 	{
@@ -22907,6 +23696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/640.png',
 	},
 	{
@@ -22936,6 +23726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/641.png',
 	},
 	{
@@ -22965,6 +23756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/641-s.png',
 	},
 	{
@@ -22994,6 +23786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/642.png',
 	},
 	{
@@ -23023,6 +23816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/642-s.png',
 	},
 	{
@@ -23052,6 +23846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/643.png',
 	},
 	{
@@ -23081,6 +23876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/644.png',
 	},
 	{
@@ -23110,6 +23906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/645.png',
 	},
 	{
@@ -23139,6 +23936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/645-s.png',
 	},
 	{
@@ -23168,6 +23966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/646.png',
 	},
 	{
@@ -23197,6 +23996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/646-b.png',
 	},
 	{
@@ -23226,6 +24026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/646-w.png',
 	},
 	{
@@ -23255,6 +24056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/647.png',
 	},
 	{
@@ -23284,6 +24086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/648.png',
 	},
 	{
@@ -23313,6 +24116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/648-p.png',
 	},
 	{
@@ -23342,6 +24146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/649.png',
 	},
 	{
@@ -23371,6 +24176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/650.png',
 	},
 	{
@@ -23400,6 +24206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/651.png',
 	},
 	{
@@ -23429,6 +24236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/652.png',
 	},
 	{
@@ -23458,6 +24266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/653.png',
 	},
 	{
@@ -23487,6 +24296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/654.png',
 	},
 	{
@@ -23516,6 +24326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/655.png',
 	},
 	{
@@ -23545,6 +24356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/656.png',
 	},
 	{
@@ -23574,6 +24386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/657.png',
 	},
 	{
@@ -23603,6 +24416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/658.png',
 	},
 	{
@@ -23632,6 +24446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/658-a.png',
 	},
 	{
@@ -23661,6 +24476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/659.png',
 	},
 	{
@@ -23690,6 +24506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/660.png',
 	},
 	{
@@ -23719,6 +24536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/661.png',
 	},
 	{
@@ -23748,6 +24566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/662.png',
 	},
 	{
@@ -23777,6 +24596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/663.png',
 	},
 	{
@@ -23806,6 +24626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/664.png',
 	},
 	{
@@ -23835,6 +24656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/665.png',
 	},
 	{
@@ -23864,6 +24686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/666.png',
 	},
 	{
@@ -23893,6 +24716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/667.png',
 	},
 	{
@@ -23922,6 +24746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/668.png',
 	},
 	{
@@ -23951,6 +24776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/669.png',
 	},
 	{
@@ -23980,6 +24806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/670.png',
 	},
 	{
@@ -24009,6 +24836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/670-e.png',
 	},
 	{
@@ -24038,6 +24866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/671.png',
 	},
 	{
@@ -24067,6 +24896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/672.png',
 	},
 	{
@@ -24096,6 +24926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/673.png',
 	},
 	{
@@ -24125,6 +24956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/674.png',
 	},
 	{
@@ -24154,6 +24986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/675.png',
 	},
 	{
@@ -24183,6 +25016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/676.png',
 	},
 	{
@@ -24212,6 +25046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/677.png',
 	},
 	{
@@ -24241,6 +25076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/678.png',
 	},
 	{
@@ -24270,6 +25106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/678-f.png',
 	},
 	{
@@ -24299,6 +25136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/679.png',
 	},
 	{
@@ -24328,6 +25166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/680.png',
 	},
 	{
@@ -24357,6 +25196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/681.png',
 	},
 	{
@@ -24386,6 +25226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/681-b.png',
 	},
 	{
@@ -24415,6 +25256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/682.png',
 	},
 	{
@@ -24444,6 +25286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/683.png',
 	},
 	{
@@ -24473,6 +25316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/684.png',
 	},
 	{
@@ -24502,6 +25346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/685.png',
 	},
 	{
@@ -24531,6 +25376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/686.png',
 	},
 	{
@@ -24560,6 +25406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/687.png',
 	},
 	{
@@ -24589,6 +25436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/688.png',
 	},
 	{
@@ -24618,6 +25466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/689.png',
 	},
 	{
@@ -24647,6 +25496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/690.png',
 	},
 	{
@@ -24676,6 +25526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/691.png',
 	},
 	{
@@ -24705,6 +25556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/692.png',
 	},
 	{
@@ -24734,6 +25586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/693.png',
 	},
 	{
@@ -24763,6 +25616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/694.png',
 	},
 	{
@@ -24792,6 +25646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/695.png',
 	},
 	{
@@ -24821,6 +25676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/696.png',
 	},
 	{
@@ -24850,6 +25706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/697.png',
 	},
 	{
@@ -24879,6 +25736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/698.png',
 	},
 	{
@@ -24908,6 +25766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/699.png',
 	},
 	{
@@ -24937,6 +25796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/700.png',
 	},
 	{
@@ -24966,6 +25826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/701.png',
 	},
 	{
@@ -24995,6 +25856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/702.png',
 	},
 	{
@@ -25024,6 +25886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/703.png',
 	},
 	{
@@ -25053,6 +25916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/704.png',
 	},
 	{
@@ -25082,6 +25946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/705.png',
 	},
 	{
@@ -25111,6 +25976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/705-h.png',
 	},
 	{
@@ -25140,6 +26006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/706.png',
 	},
 	{
@@ -25169,6 +26036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/706-h.png',
 	},
 	{
@@ -25198,6 +26066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/707.png',
 	},
 	{
@@ -25227,6 +26096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/708.png',
 	},
 	{
@@ -25256,6 +26126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/709.png',
 	},
 	{
@@ -25285,6 +26156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/710.png',
 	},
 	{
@@ -25314,6 +26186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/710-s.png',
 	},
 	{
@@ -25343,6 +26216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/710-l.png',
 	},
 	{
@@ -25372,6 +26246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/710-h.png',
 	},
 	{
@@ -25401,6 +26276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/711.png',
 	},
 	{
@@ -25430,6 +26306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/711-s.png',
 	},
 	{
@@ -25459,6 +26336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/711-l.png',
 	},
 	{
@@ -25488,6 +26366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/711-h.png',
 	},
 	{
@@ -25517,6 +26396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/712.png',
 	},
 	{
@@ -25546,6 +26426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/713.png',
 	},
 	{
@@ -25575,6 +26456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/713-h.png',
 	},
 	{
@@ -25604,6 +26486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/714.png',
 	},
 	{
@@ -25633,6 +26516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/715.png',
 	},
 	{
@@ -25662,6 +26546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/716.png',
 	},
 	{
@@ -25691,6 +26576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/717.png',
 	},
 	{
@@ -25720,6 +26606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/718.png',
 	},
 	{
@@ -25749,6 +26636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/718-10.png',
 	},
 	{
@@ -25778,6 +26666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/718-c.png',
 	},
 	{
@@ -25807,6 +26696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/719.png',
 	},
 	{
@@ -25836,6 +26726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 18,
+		IsMega: 'TRUE',
 		IconLink: 'https://www.serebii.net/art/th/719-m.png',
 	},
 	{
@@ -25865,6 +26756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/720.png',
 	},
 	{
@@ -25894,6 +26786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/720-u.png',
 	},
 	{
@@ -25923,6 +26816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/721.png',
 	},
 	{
@@ -25952,6 +26846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/722.png',
 	},
 	{
@@ -25981,6 +26876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/723.png',
 	},
 	{
@@ -26010,6 +26906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/724.png',
 	},
 	{
@@ -26039,6 +26936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/724-h.png',
 	},
 	{
@@ -26068,6 +26966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/725.png',
 	},
 	{
@@ -26097,6 +26996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/726.png',
 	},
 	{
@@ -26126,6 +27026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/727.png',
 	},
 	{
@@ -26155,6 +27056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/728.png',
 	},
 	{
@@ -26184,6 +27086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/729.png',
 	},
 	{
@@ -26213,6 +27116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/730.png',
 	},
 	{
@@ -26242,6 +27146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/731.png',
 	},
 	{
@@ -26271,6 +27176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/732.png',
 	},
 	{
@@ -26300,6 +27206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/733.png',
 	},
 	{
@@ -26329,6 +27236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/734.png',
 	},
 	{
@@ -26358,6 +27266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/735.png',
 	},
 	{
@@ -26387,6 +27296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/735.png',
 	},
 	{
@@ -26416,6 +27326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/736.png',
 	},
 	{
@@ -26445,6 +27356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/737.png',
 	},
 	{
@@ -26474,6 +27386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/738.png',
 	},
 	{
@@ -26503,6 +27416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/739.png',
 	},
 	{
@@ -26532,6 +27446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/740.png',
 	},
 	{
@@ -26561,6 +27476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/741.png',
 	},
 	{
@@ -26590,6 +27506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/741-p.png',
 	},
 	{
@@ -26619,6 +27536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/741-pau.png',
 	},
 	{
@@ -26648,6 +27566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/741-s.png',
 	},
 	{
@@ -26677,6 +27596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/742.png',
 	},
 	{
@@ -26706,6 +27626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/743.png',
 	},
 	{
@@ -26735,6 +27656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/744.png',
 	},
 	{
@@ -26764,6 +27686,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/745.png',
 	},
 	{
@@ -26793,6 +27716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/745-m.png',
 	},
 	{
@@ -26822,6 +27746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/745-d.png',
 	},
 	{
@@ -26851,6 +27776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/746.png',
 	},
 	{
@@ -26880,6 +27806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/746-s.png',
 	},
 	{
@@ -26909,6 +27836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/747.png',
 	},
 	{
@@ -26938,6 +27866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/748.png',
 	},
 	{
@@ -26967,6 +27896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/749.png',
 	},
 	{
@@ -26996,6 +27926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/750.png',
 	},
 	{
@@ -27025,6 +27956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/751.png',
 	},
 	{
@@ -27054,6 +27986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/752.png',
 	},
 	{
@@ -27083,6 +28016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/753.png',
 	},
 	{
@@ -27112,6 +28046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/754.png',
 	},
 	{
@@ -27141,6 +28076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/755.png',
 	},
 	{
@@ -27170,6 +28106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/756.png',
 	},
 	{
@@ -27199,6 +28136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/757.png',
 	},
 	{
@@ -27228,6 +28166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/758.png',
 	},
 	{
@@ -27257,6 +28196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/759.png',
 	},
 	{
@@ -27286,6 +28226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/760.png',
 	},
 	{
@@ -27315,6 +28256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/761.png',
 	},
 	{
@@ -27344,6 +28286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/762.png',
 	},
 	{
@@ -27373,6 +28316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/763.png',
 	},
 	{
@@ -27402,6 +28346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/764.png',
 	},
 	{
@@ -27431,6 +28376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/765.png',
 	},
 	{
@@ -27460,6 +28406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/766.png',
 	},
 	{
@@ -27489,6 +28436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/767.png',
 	},
 	{
@@ -27518,6 +28466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/768.png',
 	},
 	{
@@ -27547,6 +28496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/769.png',
 	},
 	{
@@ -27576,6 +28526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/770.png',
 	},
 	{
@@ -27605,6 +28556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/771.png',
 	},
 	{
@@ -27634,6 +28586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/772.png',
 	},
 	{
@@ -27663,6 +28616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27692,6 +28646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27721,6 +28676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27750,6 +28706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27779,6 +28736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27808,6 +28766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27837,6 +28796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27866,6 +28826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27895,6 +28856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27924,6 +28886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27953,6 +28916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -27982,6 +28946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28011,6 +28976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28040,6 +29006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28069,6 +29036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28098,6 +29066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28127,6 +29096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28156,6 +29126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/773.png',
 	},
 	{
@@ -28185,6 +29156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/774.png',
 	},
 	{
@@ -28214,6 +29186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/775.png',
 	},
 	{
@@ -28243,6 +29216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/776.png',
 	},
 	{
@@ -28272,6 +29246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/777.png',
 	},
 	{
@@ -28301,6 +29276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/778.png',
 	},
 	{
@@ -28330,6 +29306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/779.png',
 	},
 	{
@@ -28359,6 +29336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/780.png',
 	},
 	{
@@ -28388,6 +29366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/781.png',
 	},
 	{
@@ -28417,6 +29396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/782.png',
 	},
 	{
@@ -28446,6 +29426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/783.png',
 	},
 	{
@@ -28475,6 +29456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/784.png',
 	},
 	{
@@ -28504,6 +29486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/785.png',
 	},
 	{
@@ -28533,6 +29516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/786.png',
 	},
 	{
@@ -28562,6 +29546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/787.png',
 	},
 	{
@@ -28591,6 +29576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/788.png',
 	},
 	{
@@ -28620,6 +29606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/789.png',
 	},
 	{
@@ -28649,6 +29636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/790.png',
 	},
 	{
@@ -28678,6 +29666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/791.png',
 	},
 	{
@@ -28707,6 +29696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/792.png',
 	},
 	{
@@ -28736,6 +29726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/793.png',
 	},
 	{
@@ -28765,6 +29756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/794.png',
 	},
 	{
@@ -28794,6 +29786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/795.png',
 	},
 	{
@@ -28823,6 +29816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/796.png',
 	},
 	{
@@ -28852,6 +29846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/797.png',
 	},
 	{
@@ -28881,6 +29876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/798.png',
 	},
 	{
@@ -28910,6 +29906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/799.png',
 	},
 	{
@@ -28939,6 +29936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/800.png',
 	},
 	{
@@ -28968,6 +29966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/800-dm.png',
 	},
 	{
@@ -28997,6 +29996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/800-dw.png',
 	},
 	{
@@ -29026,6 +30026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/800-u.png',
 	},
 	{
@@ -29055,6 +30056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/801.png',
 	},
 	{
@@ -29084,6 +30086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/802.png',
 	},
 	{
@@ -29113,6 +30116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/803.png',
 	},
 	{
@@ -29142,6 +30146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/804.png',
 	},
 	{
@@ -29171,6 +30176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/805.png',
 	},
 	{
@@ -29200,6 +30206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/806.png',
 	},
 	{
@@ -29229,6 +30236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/807.png',
 	},
 	{
@@ -29258,6 +30266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/808.png',
 	},
 	{
@@ -29287,6 +30296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/809.png',
 	},
 	{
@@ -29316,6 +30326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/809-gi.png',
 	},
 	{
@@ -29345,6 +30356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/810.png',
 	},
 	{
@@ -29374,6 +30386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/811.png',
 	},
 	{
@@ -29403,6 +30416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/812.png',
 	},
 	{
@@ -29432,6 +30446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/812-gi.png',
 	},
 	{
@@ -29461,6 +30476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/813.png',
 	},
 	{
@@ -29490,6 +30506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/814.png',
 	},
 	{
@@ -29519,6 +30536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/815.png',
 	},
 	{
@@ -29548,6 +30566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/815-gi.png',
 	},
 	{
@@ -29577,6 +30596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/816.png',
 	},
 	{
@@ -29606,6 +30626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/817.png',
 	},
 	{
@@ -29635,6 +30656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/818.png',
 	},
 	{
@@ -29664,6 +30686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/818-gi.png',
 	},
 	{
@@ -29693,6 +30716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/819.png',
 	},
 	{
@@ -29722,6 +30746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/820.png',
 	},
 	{
@@ -29751,6 +30776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/821.png',
 	},
 	{
@@ -29780,6 +30806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/822.png',
 	},
 	{
@@ -29809,6 +30836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/823.png',
 	},
 	{
@@ -29838,6 +30866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/823-gi.png',
 	},
 	{
@@ -29867,6 +30896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/824.png',
 	},
 	{
@@ -29896,6 +30926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/825.png',
 	},
 	{
@@ -29925,6 +30956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/826.png',
 	},
 	{
@@ -29954,6 +30986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/826-gi.png',
 	},
 	{
@@ -29983,6 +31016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/827.png',
 	},
 	{
@@ -30012,6 +31046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/828.png',
 	},
 	{
@@ -30041,6 +31076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/829.png',
 	},
 	{
@@ -30070,6 +31106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/830.png',
 	},
 	{
@@ -30099,6 +31136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/831.png',
 	},
 	{
@@ -30128,6 +31166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/832.png',
 	},
 	{
@@ -30157,6 +31196,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/833.png',
 	},
 	{
@@ -30186,6 +31226,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/834.png',
 	},
 	{
@@ -30215,6 +31256,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/834-gi.png',
 	},
 	{
@@ -30244,6 +31286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/835.png',
 	},
 	{
@@ -30273,6 +31316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/836.png',
 	},
 	{
@@ -30302,6 +31346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/837.png',
 	},
 	{
@@ -30331,6 +31376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/838.png',
 	},
 	{
@@ -30360,6 +31406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/839.png',
 	},
 	{
@@ -30389,6 +31436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/839-gi.png',
 	},
 	{
@@ -30418,6 +31466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/840.png',
 	},
 	{
@@ -30447,6 +31496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/841.png',
 	},
 	{
@@ -30476,6 +31526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/841-gi.png',
 	},
 	{
@@ -30505,6 +31556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/842.png',
 	},
 	{
@@ -30534,6 +31586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/842-gi.png',
 	},
 	{
@@ -30563,6 +31616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/843.png',
 	},
 	{
@@ -30592,6 +31646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/844.png',
 	},
 	{
@@ -30621,6 +31676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/844-gi.png',
 	},
 	{
@@ -30650,6 +31706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/845.png',
 	},
 	{
@@ -30679,6 +31736,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/846.png',
 	},
 	{
@@ -30708,6 +31766,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/847.png',
 	},
 	{
@@ -30737,6 +31796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/848.png',
 	},
 	{
@@ -30766,6 +31826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/849.png',
 	},
 	{
@@ -30795,6 +31856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/849-gi.png',
 	},
 	{
@@ -30824,6 +31886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/850.png',
 	},
 	{
@@ -30853,6 +31916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/851.png',
 	},
 	{
@@ -30882,6 +31946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/851-gi.png',
 	},
 	{
@@ -30911,6 +31976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/852.png',
 	},
 	{
@@ -30940,6 +32006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/853.png',
 	},
 	{
@@ -30969,6 +32036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/854.png',
 	},
 	{
@@ -30998,6 +32066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/855.png',
 	},
 	{
@@ -31027,6 +32096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/856.png',
 	},
 	{
@@ -31056,6 +32126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/857.png',
 	},
 	{
@@ -31085,6 +32156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/858.png',
 	},
 	{
@@ -31114,6 +32186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/858-gi.png',
 	},
 	{
@@ -31143,6 +32216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/859.png',
 	},
 	{
@@ -31172,6 +32246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/860.png',
 	},
 	{
@@ -31201,6 +32276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/861.png',
 	},
 	{
@@ -31230,6 +32306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/861-gi.png',
 	},
 	{
@@ -31259,6 +32336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/862.png',
 	},
 	{
@@ -31288,6 +32366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/863.png',
 	},
 	{
@@ -31317,6 +32396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/864.png',
 	},
 	{
@@ -31346,6 +32426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/865.png',
 	},
 	{
@@ -31375,6 +32456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/866.png',
 	},
 	{
@@ -31404,6 +32486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/867.png',
 	},
 	{
@@ -31433,6 +32516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/868.png',
 	},
 	{
@@ -31462,6 +32546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/869.png',
 	},
 	{
@@ -31491,6 +32576,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/869-gi.png',
 	},
 	{
@@ -31520,6 +32606,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/870.png',
 	},
 	{
@@ -31549,6 +32636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/871.png',
 	},
 	{
@@ -31578,6 +32666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/872.png',
 	},
 	{
@@ -31607,6 +32696,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/873.png',
 	},
 	{
@@ -31636,6 +32726,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/874.png',
 	},
 	{
@@ -31665,6 +32756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/875.png',
 	},
 	{
@@ -31694,6 +32786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/875-n.png',
 	},
 	{
@@ -31723,6 +32816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/876.png',
 	},
 	{
@@ -31752,6 +32846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/876-f.png',
 	},
 	{
@@ -31781,6 +32876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/877.png',
 	},
 	{
@@ -31810,6 +32906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/878.png',
 	},
 	{
@@ -31839,6 +32936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/879.png',
 	},
 	{
@@ -31868,6 +32966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/879-gi.png',
 	},
 	{
@@ -31897,6 +32996,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/880.png',
 	},
 	{
@@ -31926,6 +33026,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/881.png',
 	},
 	{
@@ -31955,6 +33056,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/882.png',
 	},
 	{
@@ -31984,6 +33086,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/883.png',
 	},
 	{
@@ -32013,6 +33116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/884.png',
 	},
 	{
@@ -32042,6 +33146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/884-gi.png',
 	},
 	{
@@ -32071,6 +33176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/885.png',
 	},
 	{
@@ -32100,6 +33206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/886.png',
 	},
 	{
@@ -32129,6 +33236,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/887.png',
 	},
 	{
@@ -32158,6 +33266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/888.png',
 	},
 	{
@@ -32187,6 +33296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/888-c.png',
 	},
 	{
@@ -32216,6 +33326,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/889.png',
 	},
 	{
@@ -32245,6 +33356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/889-c.png',
 	},
 	{
@@ -32274,6 +33386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/890.png',
 	},
 	{
@@ -32303,6 +33416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/890-e.png',
 	},
 	{
@@ -32332,6 +33446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/891.png',
 	},
 	{
@@ -32361,6 +33476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/892.png',
 	},
 	{
@@ -32390,6 +33506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/892-gi.png',
 	},
 	{
@@ -32419,6 +33536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/892-r.png',
 	},
 	{
@@ -32448,6 +33566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/892-rgi.png',
 	},
 	{
@@ -32477,6 +33596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/893.png',
 	},
 	{
@@ -32506,6 +33626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/894.png',
 	},
 	{
@@ -32535,6 +33656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/895.png',
 	},
 	{
@@ -32564,6 +33686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/896.png',
 	},
 	{
@@ -32593,6 +33716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/897.png',
 	},
 	{
@@ -32622,6 +33746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/898.png',
 	},
 	{
@@ -32651,6 +33776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/898-i.png',
 	},
 	{
@@ -32680,6 +33806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/898-s.png',
 	},
 	{
@@ -32709,6 +33836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/899.png',
 	},
 	{
@@ -32738,6 +33866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/900.png',
 	},
 	{
@@ -32767,6 +33896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/901.png',
 	},
 	{
@@ -32796,6 +33926,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/902.png',
 	},
 	{
@@ -32825,6 +33956,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/902-f.png',
 	},
 	{
@@ -32854,6 +33986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/903.png',
 	},
 	{
@@ -32883,6 +34016,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/904.png',
 	},
 	{
@@ -32912,6 +34046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/905.png',
 	},
 	{
@@ -32941,6 +34076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/905-t.png',
 	},
 	{
@@ -32970,6 +34106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/906.png',
 	},
 	{
@@ -32999,6 +34136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/907.png',
 	},
 	{
@@ -33028,6 +34166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/908.png',
 	},
 	{
@@ -33057,6 +34196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/909.png',
 	},
 	{
@@ -33086,6 +34226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/910.png',
 	},
 	{
@@ -33115,6 +34256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/911.png',
 	},
 	{
@@ -33144,6 +34286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/912.png',
 	},
 	{
@@ -33173,6 +34316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/913.png',
 	},
 	{
@@ -33202,6 +34346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/914.png',
 	},
 	{
@@ -33231,6 +34376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/915.png',
 	},
 	{
@@ -33260,6 +34406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/916.png',
 	},
 	{
@@ -33289,6 +34436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/917.png',
 	},
 	{
@@ -33318,6 +34466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/918.png',
 	},
 	{
@@ -33347,6 +34496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/919.png',
 	},
 	{
@@ -33376,6 +34526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/920.png',
 	},
 	{
@@ -33405,6 +34556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/921.png',
 	},
 	{
@@ -33434,6 +34586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/922.png',
 	},
 	{
@@ -33463,6 +34616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/923.png',
 	},
 	{
@@ -33492,6 +34646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/924.png',
 	},
 	{
@@ -33521,6 +34676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/925.png',
 	},
 	{
@@ -33550,6 +34706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/925-f.png',
 	},
 	{
@@ -33579,6 +34736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/926.png',
 	},
 	{
@@ -33608,6 +34766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/927.png',
 	},
 	{
@@ -33637,6 +34796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/928.png',
 	},
 	{
@@ -33666,6 +34826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/929.png',
 	},
 	{
@@ -33695,6 +34856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/930.png',
 	},
 	{
@@ -33724,6 +34886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/931.png',
 	},
 	{
@@ -33753,6 +34916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/931-b.png',
 	},
 	{
@@ -33782,6 +34946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/931-w.png',
 	},
 	{
@@ -33811,6 +34976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/931-y.png',
 	},
 	{
@@ -33840,6 +35006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/932.png',
 	},
 	{
@@ -33869,6 +35036,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/933.png',
 	},
 	{
@@ -33898,6 +35066,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/934.png',
 	},
 	{
@@ -33927,6 +35096,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/935.png',
 	},
 	{
@@ -33956,6 +35126,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/936.png',
 	},
 	{
@@ -33985,6 +35156,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/937.png',
 	},
 	{
@@ -34014,6 +35186,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/938.png',
 	},
 	{
@@ -34043,6 +35216,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/939.png',
 	},
 	{
@@ -34072,6 +35246,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/940.png',
 	},
 	{
@@ -34101,6 +35276,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/941.png',
 	},
 	{
@@ -34130,6 +35306,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/942.png',
 	},
 	{
@@ -34159,6 +35336,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/943.png',
 	},
 	{
@@ -34188,6 +35366,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/944.png',
 	},
 	{
@@ -34217,6 +35396,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/945.png',
 	},
 	{
@@ -34246,6 +35426,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/946.png',
 	},
 	{
@@ -34275,6 +35456,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/947.png',
 	},
 	{
@@ -34304,6 +35486,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/948.png',
 	},
 	{
@@ -34333,6 +35516,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/949.png',
 	},
 	{
@@ -34362,6 +35546,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 3,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/950.png',
 	},
 	{
@@ -34391,6 +35576,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/951.png',
 	},
 	{
@@ -34420,6 +35606,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/952.png',
 	},
 	{
@@ -34449,6 +35636,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/953.png',
 	},
 	{
@@ -34478,6 +35666,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/954.png',
 	},
 	{
@@ -34507,6 +35696,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/955.png',
 	},
 	{
@@ -34536,6 +35726,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/956.png',
 	},
 	{
@@ -34565,6 +35756,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/957.png',
 	},
 	{
@@ -34594,6 +35786,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/958.png',
 	},
 	{
@@ -34623,6 +35816,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/959.png',
 	},
 	{
@@ -34652,6 +35846,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/960.png',
 	},
 	{
@@ -34681,6 +35876,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/961.png',
 	},
 	{
@@ -34710,6 +35906,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/962.png',
 	},
 	{
@@ -34739,6 +35936,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/963.png',
 	},
 	{
@@ -34768,6 +35966,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/964.png',
 	},
 	{
@@ -34797,6 +35996,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/964-h.png',
 	},
 	{
@@ -34826,6 +36026,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/965.png',
 	},
 	{
@@ -34855,6 +36056,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/966.png',
 	},
 	{
@@ -34884,6 +36086,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/967.png',
 	},
 	{
@@ -34913,6 +36116,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/968.png',
 	},
 	{
@@ -34942,6 +36146,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 2,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/969.png',
 	},
 	{
@@ -34971,6 +36176,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/970.png',
 	},
 	{
@@ -35000,6 +36206,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/971.png',
 	},
 	{
@@ -35029,6 +36236,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/972.png',
 	},
 	{
@@ -35058,6 +36266,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/973.png',
 	},
 	{
@@ -35087,6 +36296,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/974.png',
 	},
 	{
@@ -35116,6 +36326,7 @@ export const poke_data = [
 		SpeedAbility: 'TRUE',
 		Pivot: 'FALSE',
 		Price: 8,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/975.png',
 	},
 	{
@@ -35145,6 +36356,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/976.png',
 	},
 	{
@@ -35174,6 +36386,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/977.png',
 	},
 	{
@@ -35203,6 +36416,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 5,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/978.png',
 	},
 	{
@@ -35232,6 +36446,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/979.png',
 	},
 	{
@@ -35261,6 +36476,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/980.png',
 	},
 	{
@@ -35290,6 +36506,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 6,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/981.png',
 	},
 	{
@@ -35319,6 +36536,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/982.png',
 	},
 	{
@@ -35348,6 +36566,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/982-t.png',
 	},
 	{
@@ -35377,6 +36596,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/983.png',
 	},
 	{
@@ -35406,6 +36626,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/984.png',
 	},
 	{
@@ -35435,6 +36656,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/985.png',
 	},
 	{
@@ -35464,6 +36686,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/986.png',
 	},
 	{
@@ -35493,6 +36716,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/987.png',
 	},
 	{
@@ -35522,6 +36746,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/988.png',
 	},
 	{
@@ -35551,6 +36776,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/989.png',
 	},
 	{
@@ -35580,6 +36806,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/990.png',
 	},
 	{
@@ -35609,6 +36836,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/991.png',
 	},
 	{
@@ -35638,6 +36866,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/992.png',
 	},
 	{
@@ -35667,6 +36896,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/993.png',
 	},
 	{
@@ -35696,6 +36926,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/994.png',
 	},
 	{
@@ -35725,6 +36956,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 7,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/995.png',
 	},
 	{
@@ -35754,6 +36986,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/996.png',
 	},
 	{
@@ -35783,6 +37016,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/997.png',
 	},
 	{
@@ -35812,6 +37046,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 17,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/998.png',
 	},
 	{
@@ -35841,6 +37076,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/999.png',
 	},
 	{
@@ -35870,6 +37106,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1000.png',
 	},
 	{
@@ -35899,6 +37136,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1001.png',
 	},
 	{
@@ -35928,6 +37166,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1002.png',
 	},
 	{
@@ -35957,6 +37196,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1003.png',
 	},
 	{
@@ -35986,6 +37226,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 19,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1004.png',
 	},
 	{
@@ -36015,6 +37256,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1005.png',
 	},
 	{
@@ -36044,6 +37286,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 20,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1006.png',
 	},
 	{
@@ -36073,6 +37316,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1007.png',
 	},
 	{
@@ -36102,6 +37346,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1008.png',
 	},
 	{
@@ -36131,6 +37376,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1009.png',
 	},
 	{
@@ -36160,6 +37406,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1010.png',
 	},
 	{
@@ -36189,6 +37436,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 4,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1011.png',
 	},
 	{
@@ -36218,6 +37466,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 1,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1012.png',
 	},
 	{
@@ -36247,6 +37496,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1013.png',
 	},
 	{
@@ -36276,6 +37526,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 9,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1014.png',
 	},
 	{
@@ -36305,6 +37556,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 11,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1015.png',
 	},
 	{
@@ -36334,6 +37586,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 10,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1016.png',
 	},
 	{
@@ -36363,6 +37616,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1017.png',
 	},
 	{
@@ -36392,6 +37646,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1017-h.png',
 	},
 	{
@@ -36421,6 +37676,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1017-w.png',
 	},
 	{
@@ -36450,6 +37706,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 13,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1017-c.png',
 	},
 	{
@@ -36479,6 +37736,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/901-b.png',
 	},
 	{
@@ -36508,6 +37766,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1018.png',
 	},
 	{
@@ -36537,6 +37796,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1019.png',
 	},
 	{
@@ -36566,6 +37826,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 18,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1020.png',
 	},
 	{
@@ -36595,6 +37856,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 15,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1021.png',
 	},
 	{
@@ -36624,6 +37886,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 16,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1022.png',
 	},
 	{
@@ -36653,6 +37916,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 12,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1023.png',
 	},
 	{
@@ -36682,6 +37946,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1024-t.png',
 	},
 	{
@@ -36711,6 +37976,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'FALSE',
 		Price: 0,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1024-s.png',
 	},
 	{
@@ -36740,6 +38006,7 @@ export const poke_data = [
 		SpeedAbility: 'FALSE',
 		Pivot: 'TRUE',
 		Price: 14,
+		IsMega: 'FALSE',
 		IconLink: 'https://www.serebii.net/art/th/1025.png',
 	},
 ]
