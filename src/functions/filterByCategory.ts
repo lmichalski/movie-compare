@@ -3,8 +3,6 @@ import { PokeDetails } from 'src/types/PokeDetails'
 export const filterByCategory = (arr: PokeDetails[], cat: string) => {
 	let out: PokeDetails[] = []
 
-	console.log(cat)
-
 	switch (cat) {
 		case 'Bulky':
 			return arr.filter(
@@ -32,10 +30,6 @@ export const filterByCategory = (arr: PokeDetails[], cat: string) => {
 			return arr.filter(x => x.SpeedAbility == 'TRUE')
 		default:
 			console.log(`Sorry, invalid category: ${cat}.`)
-	}
-
-	for (const x of out) {
-		console.log(x)
 	}
 
 	return out

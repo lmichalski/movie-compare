@@ -1,18 +1,12 @@
-import React, { useEffect, useRef, useState } from 'react'
-import styles, { select } from './App.module.css'
-import { PokemonList } from './pokemon/PokemonList'
-import axios from 'axios'
-import { Pagination } from './pokemon/Pagination'
+import React, { useCallback, useEffect, useMemo, useState } from 'react'
+import styles from './App.module.css'
 import { Card } from './pokemon/card/Card'
-import { PokeStats } from './types/PokeStats'
 import { poke_data } from './files/OtlData'
 import { PokeDetails } from './types/PokeDetails'
-import { CategorySelect } from './pokemon/card/CategorySelect'
 import { parseIfNotNull } from './functions/parseIfNotNull'
 import { filterByCategory } from './functions/filterByCategory'
-import { asyncMergeSort } from './functions/sort.ts/mergeSort'
-import { asyncCompNumb } from './functions/sort.ts/compareItems'
-import { resolveConfig } from 'vite'
+import { Collage } from './pokemon/collage/Collage'
+import { CategorySelect } from './pokemon/card/CategorySelect'
 
 const inTierRange = (val: number, lower: number, upper: number) => lower <= val && val <= upper
 
@@ -43,149 +37,166 @@ const App: React.FC = () => {
 
 	shuffle(monsBetween6and16)
 
-	const mons5Random = [
-		monsBetween6and16[5],
-		monsBetween6and16[1],
-		monsBetween6and16[3],
-		monsBetween6and16[98],
-		monsBetween6and16[80],
-	]
-
-	const [monsList, setMonsList] = useState(filterByCategory(monsBetween6and16, 'Attacker'))
-
-	const [monCategory, setMonCategory] = useState(
-		localStorage.getItem('category') || '--Please choose an option--',
+	const [masterList, setMasterList] = useState(
+		parseIfNotNull(localStorage.getItem('masterList')) || monsBetween6and16,
 	)
 
-	const [mon1, setMon1] = useState(
-		parseIfNotNull(localStorage.getItem('mon1')) || getRandomItem(monsList),
-	)
-	const [mon2, setMon2] = useState(
-		parseIfNotNull(localStorage.getItem('mon2')) || getRandomItem(monsList),
+	localStorage.setItem('masterList', JSON.stringify(masterList))
+
+	const [category, setCategory] = useState<string>(
+		parseIfNotNull(localStorage.getItem('category')) || 'physDefender',
 	)
 
-	useEffect(() => {
-		localStorage.setItem('mon1', JSON.stringify(mon1))
-	}, [mon1])
+	const [monsList, setMonsList] = useState(
+		parseIfNotNull(localStorage.getItem('monsList' + category)) ||
+			filterByCategory(masterList, category),
+	)
 
-	useEffect(() => {
-		localStorage.setItem('mon2', JSON.stringify(mon2))
-	}, [mon2])
+	const [comparisonMonIndex, setComparisonMonIndex] = useState(
+		parseIfNotNull(localStorage.getItem('comparisonMonIndex' + category)) || 1,
+	)
+
+	const [bins, setBins] = useState<PokeDetails[][]>(
+		parseIfNotNull(localStorage.getItem('bins' + category)) || [[monsList[0]]],
+	)
+
+	const [left, setLeft] = useState(0)
+	const [right, setRight] = useState(bins.length)
+
+	const currentBinIndex = useMemo(() => Math.floor((left + right) / 2), [left, right])
+
+	const comparisonMon = useMemo(() => monsList[comparisonMonIndex], [monsList, comparisonMonIndex])
+
+	const currentBin = useMemo(() => bins[currentBinIndex], [bins, currentBinIndex])
 
 	// useEffect(() => {
-	// 	localStorage.setItem('category', monCategory)
-	// 	setMonsList(filterByCategory(monsBetween3and16, monCategory))
-	// }, [monCategory])
+	// 	localStorage.setItem('category', JSON.stringify(category))
+	// 	console.log('monsList' + category)
+	// 	console.log(comparisonMonIndex)
+	// 	setMonsList(
+	// 		parseIfNotNull(localStorage.getItem('monsList' + category)) ||
+	// 			filterByCategory(masterList, category),
+	// 	)
 
-	const resolveAsyncPokeCompare = useRef<(leftIsBetter: boolean) => void>(() => {})
+	// 	setComparisonMonIndex(
+	// 		parseIfNotNull(localStorage.getItem('comparisonMonIndex' + category)) || 1,
+	// 	)
 
-	const asyncPokeCompare =
-		(left: PokeDetails) =>
-		(right: PokeDetails): Promise<boolean> => {
-			setMon1(left)
-			setMon2(right)
-			return new Promise((resolve, reject) => {
-				resolveAsyncPokeCompare.current = resolve
-			})
-		}
+	// 	console.log(comparisonMonIndex)
+
+	// 	setBins(parseIfNotNull(localStorage.getItem('bins' + category)) || [[monsList[0]]])
+	// }, [category])
+
+	useEffect(() => localStorage.setItem('monsList' + category, JSON.stringify(monsList)), [monsList])
+
+	useEffect(
+		() => localStorage.setItem('comparisonMonIndex' + category, JSON.stringify(comparisonMonIndex)),
+		[comparisonMonIndex],
+	)
 
 	useEffect(() => {
-		// console.log(monsBetween6and16.map(x => x.Name))
-		asyncMergeSort(asyncPokeCompare)(monsList).then(sorted => console.log(sorted.map(x => x.Name)))
-	}, [])
+		localStorage.setItem('bins' + category, JSON.stringify(bins))
+	}, [bins])
+
+	// const [bin, setBin] = useState(parseIfNotNull(localStorage.getItem('bin')) || [])
+
+	const handleMonCompare = useCallback(
+		(result: '=' | '<' | '>') => {
+			console.log({ left, right, currentBinIndex, bins, comparisonMonIndex, comparisonMon })
+			console.log(monsList.length)
+			if (result == '=') {
+				bins[currentBinIndex].push(comparisonMon)
+				setBins(bins.slice())
+				setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+				setLeft(0)
+				setRight(bins.length)
+			} else if (result == '<') {
+				if (left == currentBinIndex) {
+					bins.splice(currentBinIndex, 0, [comparisonMon])
+					setBins(bins.slice())
+					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+					setLeft(0)
+					setRight(bins.length)
+				} else {
+					setRight(currentBinIndex)
+				}
+			} else if (result == '>') {
+				if (right == currentBinIndex + 1) {
+					bins.splice(currentBinIndex + 1, 0, [comparisonMon])
+					setBins(bins.slice())
+					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+					setLeft(0)
+					setRight(bins.length)
+				} else {
+					setLeft(currentBinIndex + 1)
+				}
+			} else {
+				throw new Error('how did i get here')
+			}
+		},
+		[bins, currentBinIndex, left, right, comparisonMon],
+	)
+
+	// const asyncBinCompare =
+	// 	(compMon: PokeDetails) =>
+	// 	(bins: PokeDetails[][]): Promise<'=' | '<' | '>'> => {
+	// 		setComparisonMon(compMon)
+	// 		setBins(bins)
+	// 		return new Promise((resolve, reject) => {
+	// 			resolveAsyncBinCompare.current = resolve
+	// 		})
+	// 	}
 
 	return (
 		<div className={styles.App}>
-			<CategorySelect initial={monCategory} func={setMonCategory} />
+			<div className={'clear-local-storage'}>
+				<button onClick={() => localStorage.clear()}>CAUTION: Clear Local Storage</button>
+			</div>
+			<CategorySelect initial={category} func={setCategory} />
+
 			<div className={styles.box}>
 				<Card
 					key="card__mon1"
-					pokemonName={mon1.Name}
-					url={mon1.IconLink}
-					type1={mon1.Type1}
-					type2={mon1.Type2}
-					ability1={mon1.Ability1}
-					ability2={mon1.Ability2}
-					abilityHidden={mon1.AbilityHidden}
+					pokemonName={comparisonMon.Name}
+					url={comparisonMon.IconLink}
+					type1={comparisonMon.Type1}
+					type2={comparisonMon.Type2}
+					ability1={comparisonMon.Ability1}
+					ability2={comparisonMon.Ability2}
+					abilityHidden={comparisonMon.AbilityHidden}
 					stats={{
-						hp: mon1.HP,
-						attack: mon1.Atk,
-						defense: mon1.Def,
-						specialAttack: mon1.SpA,
-						specialDefense: mon1.SpD,
-						speed: mon1.Spe,
+						hp: comparisonMon.HP,
+						attack: comparisonMon.Atk,
+						defense: comparisonMon.Def,
+						specialAttack: comparisonMon.SpA,
+						specialDefense: comparisonMon.SpD,
+						speed: comparisonMon.Spe,
 					}}
 				/>
 
-				<Card
-					key="card__mon2"
-					pokemonName={mon2.Name}
-					url={mon2.IconLink}
-					type1={mon2.Type1}
-					type2={mon2.Type2}
-					ability1={mon2.Ability1}
-					ability2={mon2.Ability2}
-					abilityHidden={mon2.AbilityHidden}
-					stats={{
-						hp: mon2.HP,
-						attack: mon2.Atk,
-						defense: mon2.Def,
-						specialAttack: mon2.SpA,
-						specialDefense: mon2.SpD,
-						speed: mon2.Spe,
-					}}
-				/>
+				<Collage imageUrls={currentBin.map(item => item.IconLink)}></Collage>
 			</div>
 			<div className={styles.temp__buttons}>
-				<button onClick={() => resolveAsyncPokeCompare.current(true)}>◀ Left</button>
-				<button onClick={() => resolveAsyncPokeCompare.current(false)}>Right ▶</button>
+				<button onClick={() => handleMonCompare('>')}>^ Better</button>
+				<button onClick={() => handleMonCompare('=')}>= Equal</button>
+				<button onClick={() => handleMonCompare('<')}>v Worse</button>
+			</div>
+			<div>
+				{bins.toReversed().map(b => (
+					<Collage imageUrls={b.map(i => i.IconLink)}></Collage>
+				))}
+			</div>
+			<div>
+				{bins.map((b, i) => (
+					<ul>
+						{b.map(item => (
+							<li>{`${item.Name}, ${i}`}</li>
+						))}
+					</ul>
+				))}
 			</div>
 		</div>
 	)
 }
-
-//Example App
-// const App: React.FC = () => {
-// 	const [pokemon, setPokemon] = useState([])
-
-// 	const [currentUrl, setCurrentUrl] = useState('https://pokeapi.co/api/v2/pokemon/')
-// 	const [nextUrl, setNextUrl] = useState('')
-// 	const [prevUrl, setPrevUrl] = useState('')
-// 	const [loading, setLoading] = useState(true)
-
-// 	useEffect(() => {
-// 		setLoading(true)
-// 		let cancel: any
-// 		axios.get(currentUrl, { cancelToken: new axios.CancelToken(c => (cancel = c)) }).then(res => {
-// 			setLoading(false)
-// 			setNextUrl(res.data.next)
-// 			setPrevUrl(res.data.previous)
-// 			setPokemon(res.data.results.map((p: { name: string }) => p.name))
-// 		})
-
-// 		return () => {
-// 			cancel()
-// 		}
-// 	}, [currentUrl])
-
-// 	function gotoNextPage() {
-// 		setCurrentUrl(nextUrl)
-// 	}
-
-// 	function gotoPrevPage() {
-// 		setCurrentUrl(prevUrl)
-// 	}
-
-// 	if (loading) {
-// 		return 'Loading...'
-// 	}
-
-// 	return (
-// 		<>
-// 			<PokemonList pokemon={pokemon} />
-// 			<Pagination gotoNextPage={gotoNextPage} gotoPrevPage={gotoPrevPage} />
-// 		</>
-// 	)
-// }
 
 export default App
