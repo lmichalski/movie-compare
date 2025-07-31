@@ -12,24 +12,36 @@ const inTierRange = (val: number, lower: number, upper: number) => lower <= val 
 
 const getRandomItem = (arr: PokeDetails[]) => arr[Math.floor(Math.random() * arr.length)]
 
+function shuffle(array: any[]) {
+	let currentIndex = array.length
+
+	// While there remain elements to shuffle...
+	while (currentIndex != 0) {
+		// Pick a remaining element...
+		let randomIndex = Math.floor(Math.random() * currentIndex)
+		currentIndex--
+
+		// And swap it with the current element.
+		;[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]]
+	}
+
+	return array
+}
+
+const categories = [
+	'hpWall',
+	'physAttacker',
+	'physDefender',
+	'specAttacker',
+	'specDefender',
+	'naturallyFast',
+	'speedAbility',
+]
+
 const App: React.FC = () => {
 	// for (const x of between3and16) {
 	// 	console.log(x)
 	// }
-
-	function shuffle(array: any[]) {
-		let currentIndex = array.length
-
-		// While there remain elements to shuffle...
-		while (currentIndex != 0) {
-			// Pick a remaining element...
-			let randomIndex = Math.floor(Math.random() * currentIndex)
-			currentIndex--
-
-			// And swap it with the current element.
-			;[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]]
-		}
-	}
 
 	const monsBetween6and16: PokeDetails[] = poke_data
 		.filter(x => inTierRange(x.Price, 6, 16))
@@ -37,19 +49,13 @@ const App: React.FC = () => {
 
 	shuffle(monsBetween6and16)
 
-	const [masterList, setMasterList] = useState(
-		parseIfNotNull(localStorage.getItem('masterList')) || monsBetween6and16,
-	)
-
-	localStorage.setItem('masterList', JSON.stringify(masterList))
-
 	const [category, setCategory] = useState<string>(
-		parseIfNotNull(localStorage.getItem('category')) || 'physDefender',
+		parseIfNotNull(localStorage.getItem('category')) || 'hpWall',
 	)
 
 	const [monsList, setMonsList] = useState(
 		parseIfNotNull(localStorage.getItem('monsList' + category)) ||
-			filterByCategory(masterList, category),
+			shuffle(filterByCategory(monsBetween6and16, category)),
 	)
 
 	const [comparisonMonIndex, setComparisonMonIndex] = useState(
@@ -63,31 +69,27 @@ const App: React.FC = () => {
 	const [left, setLeft] = useState(0)
 	const [right, setRight] = useState(bins.length)
 
-	const currentBinIndex = useMemo(() => Math.floor((left + right) / 2), [left, right])
-
 	const comparisonMon = useMemo(() => monsList[comparisonMonIndex], [monsList, comparisonMonIndex])
 
-	const currentBin = useMemo(() => bins[currentBinIndex], [bins, currentBinIndex])
+	const currentBinIndex = useMemo(() => Math.floor((left + right) / 2), [left, right])
 
-	// useEffect(() => {
-	// 	localStorage.setItem('category', JSON.stringify(category))
-	// 	console.log('monsList' + category)
-	// 	console.log(comparisonMonIndex)
-	// 	setMonsList(
-	// 		parseIfNotNull(localStorage.getItem('monsList' + category)) ||
-	// 			filterByCategory(masterList, category),
-	// 	)
+	const currentBin = useMemo(() => bins[currentBinIndex], [bins, currentBinIndex, monsList])
 
-	// 	setComparisonMonIndex(
-	// 		parseIfNotNull(localStorage.getItem('comparisonMonIndex' + category)) || 1,
-	// 	)
-
-	// 	console.log(comparisonMonIndex)
-
-	// 	setBins(parseIfNotNull(localStorage.getItem('bins' + category)) || [[monsList[0]]])
-	// }, [category])
+	useEffect(
+		() =>
+			setMonsList(
+				parseIfNotNull(localStorage.getItem('monsList' + category)) ||
+					shuffle(filterByCategory(monsBetween6and16, category)),
+			),
+		[category],
+	)
 
 	useEffect(() => localStorage.setItem('monsList' + category, JSON.stringify(monsList)), [monsList])
+
+	useEffect(
+		() => setBins(parseIfNotNull(localStorage.getItem('bins' + category)) || [[monsList[0]]]),
+		[monsList],
+	)
 
 	useEffect(
 		() => localStorage.setItem('comparisonMonIndex' + category, JSON.stringify(comparisonMonIndex)),
@@ -98,8 +100,6 @@ const App: React.FC = () => {
 		localStorage.setItem('bins' + category, JSON.stringify(bins))
 	}, [bins])
 
-	// const [bin, setBin] = useState(parseIfNotNull(localStorage.getItem('bin')) || [])
-
 	const handleMonCompare = useCallback(
 		(result: '=' | '<' | '>') => {
 			console.log({ left, right, currentBinIndex, bins, comparisonMonIndex, comparisonMon })
@@ -107,14 +107,14 @@ const App: React.FC = () => {
 			if (result == '=') {
 				bins[currentBinIndex].push(comparisonMon)
 				setBins(bins.slice())
-				setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+				setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length - 1))
 				setLeft(0)
 				setRight(bins.length)
 			} else if (result == '<') {
 				if (left == currentBinIndex) {
 					bins.splice(currentBinIndex, 0, [comparisonMon])
 					setBins(bins.slice())
-					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length - 1))
 					setLeft(0)
 					setRight(bins.length)
 				} else {
@@ -124,7 +124,7 @@ const App: React.FC = () => {
 				if (right == currentBinIndex + 1) {
 					bins.splice(currentBinIndex + 1, 0, [comparisonMon])
 					setBins(bins.slice())
-					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length))
+					setComparisonMonIndex(Math.min(comparisonMonIndex + 1, monsList.length - 1))
 					setLeft(0)
 					setRight(bins.length)
 				} else {
@@ -136,16 +136,6 @@ const App: React.FC = () => {
 		},
 		[bins, currentBinIndex, left, right, comparisonMon],
 	)
-
-	// const asyncBinCompare =
-	// 	(compMon: PokeDetails) =>
-	// 	(bins: PokeDetails[][]): Promise<'=' | '<' | '>'> => {
-	// 		setComparisonMon(compMon)
-	// 		setBins(bins)
-	// 		return new Promise((resolve, reject) => {
-	// 			resolveAsyncBinCompare.current = resolve
-	// 		})
-	// 	}
 
 	return (
 		<div className={styles.App}>
